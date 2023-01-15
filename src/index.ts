@@ -4,3 +4,4 @@ export { resolveSessionsFocusedCapacity } from './features/sessions-resolve-focu
 export { deriveSettingsFocusedCapacity } from './features/settings-derive-focused-capacity';
 export { normalizeShipmentsFocusedCapacity } from './features/shipments-normalize-focused-capacity';
 export { selectStateFocusedCapacity } from './features/state-select-focused-capacity';
+export { filterSuppliersFocusedCapacity } from './features/suppliers-filter-focused-capacity';
