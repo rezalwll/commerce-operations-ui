@@ -5,3 +5,4 @@ export { deriveSettingsFocusedCapacity } from './features/settings-derive-focuse
 export { normalizeShipmentsFocusedCapacity } from './features/shipments-normalize-focused-capacity';
 export { selectStateFocusedCapacity } from './features/state-select-focused-capacity';
 export { filterSuppliersFocusedCapacity } from './features/suppliers-filter-focused-capacity';
+export { aggregateTeamsFocusedCapacity } from './features/teams-aggregate-focused-capacity';
