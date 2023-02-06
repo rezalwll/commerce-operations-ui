@@ -6,3 +6,4 @@ export { normalizeShipmentsFocusedCapacity } from './features/shipments-normaliz
 export { selectStateFocusedCapacity } from './features/state-select-focused-capacity';
 export { filterSuppliersFocusedCapacity } from './features/suppliers-filter-focused-capacity';
 export { aggregateTeamsFocusedCapacity } from './features/teams-aggregate-focused-capacity';
+export { reduceValidationFocusedCapacity } from './features/validation-reduce-focused-capacity';
