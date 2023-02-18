@@ -8,3 +8,4 @@ export { filterSuppliersFocusedCapacity } from './features/suppliers-filter-focu
 export { aggregateTeamsFocusedCapacity } from './features/teams-aggregate-focused-capacity';
 export { reduceValidationFocusedCapacity } from './features/validation-reduce-focused-capacity';
 export { classifyWorkflowsFocusedCapacity } from './features/workflows-classify-focused-capacity';
+export { measureWorkspaceFocusedCapacity } from './features/workspace-measure-focused-capacity';
