@@ -9,3 +9,5 @@ export { aggregateTeamsFocusedCapacity } from './features/teams-aggregate-focuse
 export { reduceValidationFocusedCapacity } from './features/validation-reduce-focused-capacity';
 export { classifyWorkflowsFocusedCapacity } from './features/workflows-classify-focused-capacity';
 export { measureWorkspaceFocusedCapacity } from './features/workspace-measure-focused-capacity';
+export { scheduleNotificationsFocusedCapacity } from './features/notifications-schedule-focused-capacity';
+export { NotificationsScheduleFocusedCapacityCard } from './components/NotificationsScheduleFocusedCapacityCard';
