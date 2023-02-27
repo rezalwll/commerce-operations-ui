@@ -11,3 +11,4 @@ export { classifyWorkflowsFocusedCapacity } from './features/workflows-classify-
 export { measureWorkspaceFocusedCapacity } from './features/workspace-measure-focused-capacity';
 export { scheduleNotificationsFocusedCapacity } from './features/notifications-schedule-focused-capacity';
 export { NotificationsScheduleFocusedCapacityCard } from './components/NotificationsScheduleFocusedCapacityCard';
+export { derivePermissionsFocusedCapacity } from './features/permissions-derive-focused-capacity';
