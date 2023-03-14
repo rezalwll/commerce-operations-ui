@@ -13,3 +13,4 @@ export { scheduleNotificationsFocusedCapacity } from './features/notifications-s
 export { NotificationsScheduleFocusedCapacityCard } from './components/NotificationsScheduleFocusedCapacityCard';
 export { derivePermissionsFocusedCapacity } from './features/permissions-derive-focused-capacity';
 export { partitionReturnsFocusedCapacity } from './features/returns-partition-focused-capacity';
+export { summarizeForecastingFocusedCapacity } from './features/forecasting-summarize-focused-capacity';
