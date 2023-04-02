@@ -15,3 +15,5 @@ export { derivePermissionsFocusedCapacity } from './features/permissions-derive-
 export { partitionReturnsFocusedCapacity } from './features/returns-partition-focused-capacity';
 export { summarizeForecastingFocusedCapacity } from './features/forecasting-summarize-focused-capacity';
 export { rankAccountsIncrementalCapacity } from './features/accounts-rank-incremental-capacity';
+export { calculateAnalyticsIncrementalCapacity } from './features/analytics-calculate-incremental-capacity';
+export { AnalyticsCalculateIncrementalCapacityCard } from './components/AnalyticsCalculateIncrementalCapacityCard';
