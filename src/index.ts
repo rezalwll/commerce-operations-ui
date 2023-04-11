@@ -17,3 +17,4 @@ export { summarizeForecastingFocusedCapacity } from './features/forecasting-summ
 export { rankAccountsIncrementalCapacity } from './features/accounts-rank-incremental-capacity';
 export { calculateAnalyticsIncrementalCapacity } from './features/analytics-calculate-incremental-capacity';
 export { AnalyticsCalculateIncrementalCapacityCard } from './components/AnalyticsCalculateIncrementalCapacityCard';
+export { resolveCheckoutIncrementalCapacity } from './features/checkout-resolve-incremental-capacity';
