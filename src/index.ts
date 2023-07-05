@@ -20,3 +20,4 @@ export { AnalyticsCalculateIncrementalCapacityCard } from './components/Analytic
 export { resolveCheckoutIncrementalCapacity } from './features/checkout-resolve-incremental-capacity';
 export { compareCustomersIncrementalCapacity } from './features/customers-compare-incremental-capacity';
 export { selectFiltersIncrementalCapacity } from './features/filters-select-incremental-capacity';
+export { partitionFulfillmentIncrementalCapacity } from './features/fulfillment-partition-incremental-capacity';
