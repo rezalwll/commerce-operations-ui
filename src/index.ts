@@ -21,3 +21,4 @@ export { resolveCheckoutIncrementalCapacity } from './features/checkout-resolve-
 export { compareCustomersIncrementalCapacity } from './features/customers-compare-incremental-capacity';
 export { selectFiltersIncrementalCapacity } from './features/filters-select-incremental-capacity';
 export { partitionFulfillmentIncrementalCapacity } from './features/fulfillment-partition-incremental-capacity';
+export { aggregateInventoryIncrementalCapacity } from './features/inventory-aggregate-incremental-capacity';
