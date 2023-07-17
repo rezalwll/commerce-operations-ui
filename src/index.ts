@@ -22,3 +22,4 @@ export { compareCustomersIncrementalCapacity } from './features/customers-compar
 export { selectFiltersIncrementalCapacity } from './features/filters-select-incremental-capacity';
 export { partitionFulfillmentIncrementalCapacity } from './features/fulfillment-partition-incremental-capacity';
 export { aggregateInventoryIncrementalCapacity } from './features/inventory-aggregate-incremental-capacity';
+export { formatLayoutIncrementalCapacity } from './features/layout-format-incremental-capacity';
