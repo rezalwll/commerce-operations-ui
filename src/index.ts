@@ -24,3 +24,4 @@ export { partitionFulfillmentIncrementalCapacity } from './features/fulfillment-
 export { aggregateInventoryIncrementalCapacity } from './features/inventory-aggregate-incremental-capacity';
 export { formatLayoutIncrementalCapacity } from './features/layout-format-incremental-capacity';
 export { classifyOrdersIncrementalCapacity } from './features/orders-classify-incremental-capacity';
+export { resolveProductsIncrementalCapacity } from './features/products-resolve-incremental-capacity';
