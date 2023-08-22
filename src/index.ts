@@ -25,3 +25,4 @@ export { aggregateInventoryIncrementalCapacity } from './features/inventory-aggr
 export { formatLayoutIncrementalCapacity } from './features/layout-format-incremental-capacity';
 export { classifyOrdersIncrementalCapacity } from './features/orders-classify-incremental-capacity';
 export { resolveProductsIncrementalCapacity } from './features/products-resolve-incremental-capacity';
+export { deriveReportsIncrementalCapacity } from './features/reports-derive-incremental-capacity';
