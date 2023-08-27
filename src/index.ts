@@ -26,3 +26,4 @@ export { formatLayoutIncrementalCapacity } from './features/layout-format-increm
 export { classifyOrdersIncrementalCapacity } from './features/orders-classify-incremental-capacity';
 export { resolveProductsIncrementalCapacity } from './features/products-resolve-incremental-capacity';
 export { deriveReportsIncrementalCapacity } from './features/reports-derive-incremental-capacity';
+export { normalizeRoutingIncrementalCapacity } from './features/routing-normalize-incremental-capacity';
