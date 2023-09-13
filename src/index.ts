@@ -29,3 +29,5 @@ export { deriveReportsIncrementalCapacity } from './features/reports-derive-incr
 export { normalizeRoutingIncrementalCapacity } from './features/routing-normalize-incremental-capacity';
 export { selectSearchIncrementalCapacity } from './features/search-select-incremental-capacity';
 export { filterSessionsIncrementalCapacity } from './features/sessions-filter-incremental-capacity';
+export { prioritizeSettingsIncrementalCapacity } from './features/settings-prioritize-incremental-capacity';
+export { SettingsPrioritizeIncrementalCapacityCard } from './components/SettingsPrioritizeIncrementalCapacityCard';
