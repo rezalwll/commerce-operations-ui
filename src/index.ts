@@ -32,3 +32,4 @@ export { filterSessionsIncrementalCapacity } from './features/sessions-filter-in
 export { prioritizeSettingsIncrementalCapacity } from './features/settings-prioritize-incremental-capacity';
 export { SettingsPrioritizeIncrementalCapacityCard } from './components/SettingsPrioritizeIncrementalCapacityCard';
 export { groupStateIncrementalCapacity } from './features/state-group-incremental-capacity';
+export { reduceSuppliersIncrementalCapacity } from './features/suppliers-reduce-incremental-capacity';
