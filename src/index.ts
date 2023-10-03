@@ -33,3 +33,4 @@ export { prioritizeSettingsIncrementalCapacity } from './features/settings-prior
 export { SettingsPrioritizeIncrementalCapacityCard } from './components/SettingsPrioritizeIncrementalCapacityCard';
 export { groupStateIncrementalCapacity } from './features/state-group-incremental-capacity';
 export { reduceSuppliersIncrementalCapacity } from './features/suppliers-reduce-incremental-capacity';
+export { classifyTablesIncrementalCapacity } from './features/tables-classify-incremental-capacity';
