@@ -34,3 +34,4 @@ export { SettingsPrioritizeIncrementalCapacityCard } from './components/Settings
 export { groupStateIncrementalCapacity } from './features/state-group-incremental-capacity';
 export { reduceSuppliersIncrementalCapacity } from './features/suppliers-reduce-incremental-capacity';
 export { classifyTablesIncrementalCapacity } from './features/tables-classify-incremental-capacity';
+export { measureTeamsIncrementalCapacity } from './features/teams-measure-incremental-capacity';
