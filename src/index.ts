@@ -35,3 +35,5 @@ export { groupStateIncrementalCapacity } from './features/state-group-incrementa
 export { reduceSuppliersIncrementalCapacity } from './features/suppliers-reduce-incremental-capacity';
 export { classifyTablesIncrementalCapacity } from './features/tables-classify-incremental-capacity';
 export { measureTeamsIncrementalCapacity } from './features/teams-measure-incremental-capacity';
+export { scheduleTelemetryIncrementalCapacity } from './features/telemetry-schedule-incremental-capacity';
+export { TelemetryScheduleIncrementalCapacityCard } from './components/TelemetryScheduleIncrementalCapacityCard';
