@@ -37,3 +37,4 @@ export { classifyTablesIncrementalCapacity } from './features/tables-classify-in
 export { measureTeamsIncrementalCapacity } from './features/teams-measure-incremental-capacity';
 export { scheduleTelemetryIncrementalCapacity } from './features/telemetry-schedule-incremental-capacity';
 export { TelemetryScheduleIncrementalCapacityCard } from './components/TelemetryScheduleIncrementalCapacityCard';
+export { deriveValidationIncrementalCapacity } from './features/validation-derive-incremental-capacity';
