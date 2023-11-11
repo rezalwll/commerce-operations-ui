@@ -38,3 +38,4 @@ export { measureTeamsIncrementalCapacity } from './features/teams-measure-increm
 export { scheduleTelemetryIncrementalCapacity } from './features/telemetry-schedule-incremental-capacity';
 export { TelemetryScheduleIncrementalCapacityCard } from './components/TelemetryScheduleIncrementalCapacityCard';
 export { deriveValidationIncrementalCapacity } from './features/validation-derive-incremental-capacity';
+export { filterNotificationsIncrementalCapacity } from './features/notifications-filter-incremental-capacity';
