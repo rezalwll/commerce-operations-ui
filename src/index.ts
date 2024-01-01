@@ -40,3 +40,5 @@ export { TelemetryScheduleIncrementalCapacityCard } from './components/Telemetry
 export { deriveValidationIncrementalCapacity } from './features/validation-derive-incremental-capacity';
 export { filterNotificationsIncrementalCapacity } from './features/notifications-filter-incremental-capacity';
 export { rankPermissionsIncrementalCapacity } from './features/permissions-rank-incremental-capacity';
+export { calculateReturnsIncrementalCapacity } from './features/returns-calculate-incremental-capacity';
+export { ReturnsCalculateIncrementalCapacityCard } from './components/ReturnsCalculateIncrementalCapacityCard';
