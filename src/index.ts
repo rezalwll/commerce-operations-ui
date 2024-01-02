@@ -42,3 +42,4 @@ export { filterNotificationsIncrementalCapacity } from './features/notifications
 export { rankPermissionsIncrementalCapacity } from './features/permissions-rank-incremental-capacity';
 export { calculateReturnsIncrementalCapacity } from './features/returns-calculate-incremental-capacity';
 export { ReturnsCalculateIncrementalCapacityCard } from './components/ReturnsCalculateIncrementalCapacityCard';
+export { groupForecastingIncrementalCapacity } from './features/forecasting-group-incremental-capacity';
