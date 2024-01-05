@@ -43,3 +43,4 @@ export { rankPermissionsIncrementalCapacity } from './features/permissions-rank-
 export { calculateReturnsIncrementalCapacity } from './features/returns-calculate-incremental-capacity';
 export { ReturnsCalculateIncrementalCapacityCard } from './components/ReturnsCalculateIncrementalCapacityCard';
 export { groupForecastingIncrementalCapacity } from './features/forecasting-group-incremental-capacity';
+export { compareAccountsKeyboardCapacity } from './features/accounts-compare-keyboard-capacity';
