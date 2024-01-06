@@ -44,3 +44,4 @@ export { calculateReturnsIncrementalCapacity } from './features/returns-calculat
 export { ReturnsCalculateIncrementalCapacityCard } from './components/ReturnsCalculateIncrementalCapacityCard';
 export { groupForecastingIncrementalCapacity } from './features/forecasting-group-incremental-capacity';
 export { compareAccountsKeyboardCapacity } from './features/accounts-compare-keyboard-capacity';
+export { measureAnalyticsKeyboardCapacity } from './features/analytics-measure-keyboard-capacity';
