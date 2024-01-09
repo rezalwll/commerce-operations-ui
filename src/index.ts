@@ -48,3 +48,4 @@ export { measureAnalyticsKeyboardCapacity } from './features/analytics-measure-k
 export { estimateCheckoutKeyboardCapacity } from './features/checkout-estimate-keyboard-capacity';
 export { CheckoutEstimateKeyboardCapacityCard } from './components/CheckoutEstimateKeyboardCapacityCard';
 export { partitionCustomersKeyboardCapacity } from './features/customers-partition-keyboard-capacity';
+export { aggregateDeliveryKeyboardCapacity } from './features/delivery-aggregate-keyboard-capacity';
