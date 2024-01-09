@@ -47,3 +47,4 @@ export { compareAccountsKeyboardCapacity } from './features/accounts-compare-key
 export { measureAnalyticsKeyboardCapacity } from './features/analytics-measure-keyboard-capacity';
 export { estimateCheckoutKeyboardCapacity } from './features/checkout-estimate-keyboard-capacity';
 export { CheckoutEstimateKeyboardCapacityCard } from './components/CheckoutEstimateKeyboardCapacityCard';
+export { partitionCustomersKeyboardCapacity } from './features/customers-partition-keyboard-capacity';
