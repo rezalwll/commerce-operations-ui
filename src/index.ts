@@ -49,3 +49,4 @@ export { estimateCheckoutKeyboardCapacity } from './features/checkout-estimate-k
 export { CheckoutEstimateKeyboardCapacityCard } from './components/CheckoutEstimateKeyboardCapacityCard';
 export { partitionCustomersKeyboardCapacity } from './features/customers-partition-keyboard-capacity';
 export { aggregateDeliveryKeyboardCapacity } from './features/delivery-aggregate-keyboard-capacity';
+export { formatFiltersKeyboardCapacity } from './features/filters-format-keyboard-capacity';
