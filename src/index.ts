@@ -50,3 +50,4 @@ export { CheckoutEstimateKeyboardCapacityCard } from './components/CheckoutEstim
 export { partitionCustomersKeyboardCapacity } from './features/customers-partition-keyboard-capacity';
 export { aggregateDeliveryKeyboardCapacity } from './features/delivery-aggregate-keyboard-capacity';
 export { formatFiltersKeyboardCapacity } from './features/filters-format-keyboard-capacity';
+export { rankFormsKeyboardCapacity } from './features/forms-rank-keyboard-capacity';
