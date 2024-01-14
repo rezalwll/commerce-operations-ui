@@ -51,3 +51,5 @@ export { partitionCustomersKeyboardCapacity } from './features/customers-partiti
 export { aggregateDeliveryKeyboardCapacity } from './features/delivery-aggregate-keyboard-capacity';
 export { formatFiltersKeyboardCapacity } from './features/filters-format-keyboard-capacity';
 export { rankFormsKeyboardCapacity } from './features/forms-rank-keyboard-capacity';
+export { indexInventoryKeyboardCapacity } from './features/inventory-index-keyboard-capacity';
+export { InventoryIndexKeyboardCapacityCard } from './components/InventoryIndexKeyboardCapacityCard';
