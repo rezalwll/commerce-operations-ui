@@ -53,3 +53,4 @@ export { formatFiltersKeyboardCapacity } from './features/filters-format-keyboar
 export { rankFormsKeyboardCapacity } from './features/forms-rank-keyboard-capacity';
 export { indexInventoryKeyboardCapacity } from './features/inventory-index-keyboard-capacity';
 export { InventoryIndexKeyboardCapacityCard } from './components/InventoryIndexKeyboardCapacityCard';
+export { resolveLayoutKeyboardCapacity } from './features/layout-resolve-keyboard-capacity';
