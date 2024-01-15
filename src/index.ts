@@ -54,3 +54,4 @@ export { rankFormsKeyboardCapacity } from './features/forms-rank-keyboard-capaci
 export { indexInventoryKeyboardCapacity } from './features/inventory-index-keyboard-capacity';
 export { InventoryIndexKeyboardCapacityCard } from './components/InventoryIndexKeyboardCapacityCard';
 export { resolveLayoutKeyboardCapacity } from './features/layout-resolve-keyboard-capacity';
+export { deriveNavigationKeyboardCapacity } from './features/navigation-derive-keyboard-capacity';
