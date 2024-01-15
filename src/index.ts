@@ -55,3 +55,4 @@ export { indexInventoryKeyboardCapacity } from './features/inventory-index-keybo
 export { InventoryIndexKeyboardCapacityCard } from './components/InventoryIndexKeyboardCapacityCard';
 export { resolveLayoutKeyboardCapacity } from './features/layout-resolve-keyboard-capacity';
 export { deriveNavigationKeyboardCapacity } from './features/navigation-derive-keyboard-capacity';
+export { normalizeOrdersKeyboardCapacity } from './features/orders-normalize-keyboard-capacity';
