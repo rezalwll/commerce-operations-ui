@@ -57,3 +57,4 @@ export { resolveLayoutKeyboardCapacity } from './features/layout-resolve-keyboar
 export { deriveNavigationKeyboardCapacity } from './features/navigation-derive-keyboard-capacity';
 export { normalizeOrdersKeyboardCapacity } from './features/orders-normalize-keyboard-capacity';
 export { selectPricingKeyboardCapacity } from './features/pricing-select-keyboard-capacity';
+export { filterProductsKeyboardCapacity } from './features/products-filter-keyboard-capacity';
