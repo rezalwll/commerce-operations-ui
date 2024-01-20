@@ -60,3 +60,4 @@ export { selectPricingKeyboardCapacity } from './features/pricing-select-keyboar
 export { filterProductsKeyboardCapacity } from './features/products-filter-keyboard-capacity';
 export { prioritizeReportsKeyboardCapacity } from './features/reports-prioritize-keyboard-capacity';
 export { ReportsPrioritizeKeyboardCapacityCard } from './components/ReportsPrioritizeKeyboardCapacityCard';
+export { aggregateRoutingKeyboardCapacity } from './features/routing-aggregate-keyboard-capacity';
