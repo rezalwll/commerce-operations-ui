@@ -66,3 +66,4 @@ export { classifySettingsKeyboardCapacity } from './features/settings-classify-k
 export { measureShipmentsKeyboardCapacity } from './features/shipments-measure-keyboard-capacity';
 export { scheduleStateKeyboardCapacity } from './features/state-schedule-keyboard-capacity';
 export { StateScheduleKeyboardCapacityCard } from './components/StateScheduleKeyboardCapacityCard';
+export { deriveSuppliersKeyboardCapacity } from './features/suppliers-derive-keyboard-capacity';
