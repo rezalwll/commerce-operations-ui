@@ -63,3 +63,4 @@ export { ReportsPrioritizeKeyboardCapacityCard } from './components/ReportsPrior
 export { aggregateRoutingKeyboardCapacity } from './features/routing-aggregate-keyboard-capacity';
 export { groupSearchKeyboardCapacity } from './features/search-group-keyboard-capacity';
 export { classifySettingsKeyboardCapacity } from './features/settings-classify-keyboard-capacity';
+export { measureShipmentsKeyboardCapacity } from './features/shipments-measure-keyboard-capacity';
