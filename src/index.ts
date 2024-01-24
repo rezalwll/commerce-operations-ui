@@ -67,3 +67,4 @@ export { measureShipmentsKeyboardCapacity } from './features/shipments-measure-k
 export { scheduleStateKeyboardCapacity } from './features/state-schedule-keyboard-capacity';
 export { StateScheduleKeyboardCapacityCard } from './components/StateScheduleKeyboardCapacityCard';
 export { deriveSuppliersKeyboardCapacity } from './features/suppliers-derive-keyboard-capacity';
+export { partitionTablesKeyboardCapacity } from './features/tables-partition-keyboard-capacity';
