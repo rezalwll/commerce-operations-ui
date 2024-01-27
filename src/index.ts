@@ -69,3 +69,5 @@ export { StateScheduleKeyboardCapacityCard } from './components/StateScheduleKey
 export { deriveSuppliersKeyboardCapacity } from './features/suppliers-derive-keyboard-capacity';
 export { partitionTablesKeyboardCapacity } from './features/tables-partition-keyboard-capacity';
 export { summarizeTeamsKeyboardCapacity } from './features/teams-summarize-keyboard-capacity';
+export { calculateWorkflowsKeyboardCapacity } from './features/workflows-calculate-keyboard-capacity';
+export { WorkflowsCalculateKeyboardCapacityCard } from './components/WorkflowsCalculateKeyboardCapacityCard';
