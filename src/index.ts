@@ -71,3 +71,4 @@ export { partitionTablesKeyboardCapacity } from './features/tables-partition-key
 export { summarizeTeamsKeyboardCapacity } from './features/teams-summarize-keyboard-capacity';
 export { calculateWorkflowsKeyboardCapacity } from './features/workflows-calculate-keyboard-capacity';
 export { WorkflowsCalculateKeyboardCapacityCard } from './components/WorkflowsCalculateKeyboardCapacityCard';
+export { resolveNotificationsKeyboardCapacity } from './features/notifications-resolve-keyboard-capacity';
