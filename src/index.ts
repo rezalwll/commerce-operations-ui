@@ -72,3 +72,4 @@ export { summarizeTeamsKeyboardCapacity } from './features/teams-summarize-keybo
 export { calculateWorkflowsKeyboardCapacity } from './features/workflows-calculate-keyboard-capacity';
 export { WorkflowsCalculateKeyboardCapacityCard } from './components/WorkflowsCalculateKeyboardCapacityCard';
 export { resolveNotificationsKeyboardCapacity } from './features/notifications-resolve-keyboard-capacity';
+export { comparePermissionsKeyboardCapacity } from './features/permissions-compare-keyboard-capacity';
