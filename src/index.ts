@@ -73,3 +73,4 @@ export { calculateWorkflowsKeyboardCapacity } from './features/workflows-calcula
 export { WorkflowsCalculateKeyboardCapacityCard } from './components/WorkflowsCalculateKeyboardCapacityCard';
 export { resolveNotificationsKeyboardCapacity } from './features/notifications-resolve-keyboard-capacity';
 export { comparePermissionsKeyboardCapacity } from './features/permissions-compare-keyboard-capacity';
+export { measureReturnsKeyboardCapacity } from './features/returns-measure-keyboard-capacity';
