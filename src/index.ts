@@ -76,3 +76,4 @@ export { comparePermissionsKeyboardCapacity } from './features/permissions-compa
 export { measureReturnsKeyboardCapacity } from './features/returns-measure-keyboard-capacity';
 export { estimateAccessibilityLocalizedCapacity } from './features/accessibility-estimate-localized-capacity';
 export { AccessibilityEstimateLocalizedCapacityCard } from './components/AccessibilityEstimateLocalizedCapacityCard';
+export { partitionAccountsLocalizedCapacity } from './features/accounts-partition-localized-capacity';
