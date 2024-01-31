@@ -74,3 +74,5 @@ export { WorkflowsCalculateKeyboardCapacityCard } from './components/WorkflowsCa
 export { resolveNotificationsKeyboardCapacity } from './features/notifications-resolve-keyboard-capacity';
 export { comparePermissionsKeyboardCapacity } from './features/permissions-compare-keyboard-capacity';
 export { measureReturnsKeyboardCapacity } from './features/returns-measure-keyboard-capacity';
+export { estimateAccessibilityLocalizedCapacity } from './features/accessibility-estimate-localized-capacity';
+export { AccessibilityEstimateLocalizedCapacityCard } from './components/AccessibilityEstimateLocalizedCapacityCard';
