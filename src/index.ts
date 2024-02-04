@@ -80,3 +80,4 @@ export { partitionAccountsLocalizedCapacity } from './features/accounts-partitio
 export { classifyCustomersLocalizedCapacity } from './features/customers-classify-localized-capacity';
 export { indexDeliveryLocalizedCapacity } from './features/delivery-index-localized-capacity';
 export { DeliveryIndexLocalizedCapacityCard } from './components/DeliveryIndexLocalizedCapacityCard';
+export { resolveFiltersLocalizedCapacity } from './features/filters-resolve-localized-capacity';
