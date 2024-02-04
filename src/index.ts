@@ -78,3 +78,5 @@ export { estimateAccessibilityLocalizedCapacity } from './features/accessibility
 export { AccessibilityEstimateLocalizedCapacityCard } from './components/AccessibilityEstimateLocalizedCapacityCard';
 export { partitionAccountsLocalizedCapacity } from './features/accounts-partition-localized-capacity';
 export { classifyCustomersLocalizedCapacity } from './features/customers-classify-localized-capacity';
+export { indexDeliveryLocalizedCapacity } from './features/delivery-index-localized-capacity';
+export { DeliveryIndexLocalizedCapacityCard } from './components/DeliveryIndexLocalizedCapacityCard';
