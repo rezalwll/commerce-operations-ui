@@ -81,3 +81,4 @@ export { classifyCustomersLocalizedCapacity } from './features/customers-classif
 export { indexDeliveryLocalizedCapacity } from './features/delivery-index-localized-capacity';
 export { DeliveryIndexLocalizedCapacityCard } from './components/DeliveryIndexLocalizedCapacityCard';
 export { resolveFiltersLocalizedCapacity } from './features/filters-resolve-localized-capacity';
+export { deriveFormsLocalizedCapacity } from './features/forms-derive-localized-capacity';
