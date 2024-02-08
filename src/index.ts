@@ -83,3 +83,4 @@ export { DeliveryIndexLocalizedCapacityCard } from './components/DeliveryIndexLo
 export { resolveFiltersLocalizedCapacity } from './features/filters-resolve-localized-capacity';
 export { deriveFormsLocalizedCapacity } from './features/forms-derive-localized-capacity';
 export { normalizeFulfillmentLocalizedCapacity } from './features/fulfillment-normalize-localized-capacity';
+export { filterLayoutLocalizedCapacity } from './features/layout-filter-localized-capacity';
