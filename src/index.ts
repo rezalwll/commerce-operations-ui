@@ -84,3 +84,4 @@ export { resolveFiltersLocalizedCapacity } from './features/filters-resolve-loca
 export { deriveFormsLocalizedCapacity } from './features/forms-derive-localized-capacity';
 export { normalizeFulfillmentLocalizedCapacity } from './features/fulfillment-normalize-localized-capacity';
 export { filterLayoutLocalizedCapacity } from './features/layout-filter-localized-capacity';
+export { aggregateOrdersLocalizedCapacity } from './features/orders-aggregate-localized-capacity';
