@@ -88,3 +88,4 @@ export { aggregateOrdersLocalizedCapacity } from './features/orders-aggregate-lo
 export { groupPricingLocalizedCapacity } from './features/pricing-group-localized-capacity';
 export { reduceProductsLocalizedCapacity } from './features/products-reduce-localized-capacity';
 export { classifyReportsLocalizedCapacity } from './features/reports-classify-localized-capacity';
+export { measureRoutingLocalizedCapacity } from './features/routing-measure-localized-capacity';
