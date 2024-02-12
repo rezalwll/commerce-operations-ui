@@ -87,3 +87,4 @@ export { filterLayoutLocalizedCapacity } from './features/layout-filter-localize
 export { aggregateOrdersLocalizedCapacity } from './features/orders-aggregate-localized-capacity';
 export { groupPricingLocalizedCapacity } from './features/pricing-group-localized-capacity';
 export { reduceProductsLocalizedCapacity } from './features/products-reduce-localized-capacity';
+export { classifyReportsLocalizedCapacity } from './features/reports-classify-localized-capacity';
