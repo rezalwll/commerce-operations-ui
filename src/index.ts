@@ -86,3 +86,4 @@ export { normalizeFulfillmentLocalizedCapacity } from './features/fulfillment-no
 export { filterLayoutLocalizedCapacity } from './features/layout-filter-localized-capacity';
 export { aggregateOrdersLocalizedCapacity } from './features/orders-aggregate-localized-capacity';
 export { groupPricingLocalizedCapacity } from './features/pricing-group-localized-capacity';
+export { reduceProductsLocalizedCapacity } from './features/products-reduce-localized-capacity';
