@@ -89,3 +89,5 @@ export { groupPricingLocalizedCapacity } from './features/pricing-group-localize
 export { reduceProductsLocalizedCapacity } from './features/products-reduce-localized-capacity';
 export { classifyReportsLocalizedCapacity } from './features/reports-classify-localized-capacity';
 export { measureRoutingLocalizedCapacity } from './features/routing-measure-localized-capacity';
+export { scheduleSearchLocalizedCapacity } from './features/search-schedule-localized-capacity';
+export { SearchScheduleLocalizedCapacityCard } from './components/SearchScheduleLocalizedCapacityCard';
