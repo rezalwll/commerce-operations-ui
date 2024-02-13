@@ -91,3 +91,4 @@ export { classifyReportsLocalizedCapacity } from './features/reports-classify-lo
 export { measureRoutingLocalizedCapacity } from './features/routing-measure-localized-capacity';
 export { scheduleSearchLocalizedCapacity } from './features/search-schedule-localized-capacity';
 export { SearchScheduleLocalizedCapacityCard } from './components/SearchScheduleLocalizedCapacityCard';
+export { deriveSessionsLocalizedCapacity } from './features/sessions-derive-localized-capacity';
