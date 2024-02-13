@@ -92,3 +92,4 @@ export { measureRoutingLocalizedCapacity } from './features/routing-measure-loca
 export { scheduleSearchLocalizedCapacity } from './features/search-schedule-localized-capacity';
 export { SearchScheduleLocalizedCapacityCard } from './components/SearchScheduleLocalizedCapacityCard';
 export { deriveSessionsLocalizedCapacity } from './features/sessions-derive-localized-capacity';
+export { partitionSettingsLocalizedCapacity } from './features/settings-partition-localized-capacity';
