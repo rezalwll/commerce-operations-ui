@@ -93,3 +93,4 @@ export { scheduleSearchLocalizedCapacity } from './features/search-schedule-loca
 export { SearchScheduleLocalizedCapacityCard } from './components/SearchScheduleLocalizedCapacityCard';
 export { deriveSessionsLocalizedCapacity } from './features/sessions-derive-localized-capacity';
 export { partitionSettingsLocalizedCapacity } from './features/settings-partition-localized-capacity';
+export { filterStateLocalizedCapacity } from './features/state-filter-localized-capacity';
