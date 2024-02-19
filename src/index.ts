@@ -95,3 +95,4 @@ export { deriveSessionsLocalizedCapacity } from './features/sessions-derive-loca
 export { partitionSettingsLocalizedCapacity } from './features/settings-partition-localized-capacity';
 export { filterStateLocalizedCapacity } from './features/state-filter-localized-capacity';
 export { rankSuppliersLocalizedCapacity } from './features/suppliers-rank-localized-capacity';
+export { resolveTelemetryLocalizedCapacity } from './features/telemetry-resolve-localized-capacity';
