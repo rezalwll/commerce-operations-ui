@@ -96,3 +96,4 @@ export { partitionSettingsLocalizedCapacity } from './features/settings-partitio
 export { filterStateLocalizedCapacity } from './features/state-filter-localized-capacity';
 export { rankSuppliersLocalizedCapacity } from './features/suppliers-rank-localized-capacity';
 export { resolveTelemetryLocalizedCapacity } from './features/telemetry-resolve-localized-capacity';
+export { compareValidationLocalizedCapacity } from './features/validation-compare-localized-capacity';
