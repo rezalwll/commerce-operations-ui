@@ -97,3 +97,4 @@ export { filterStateLocalizedCapacity } from './features/state-filter-localized-
 export { rankSuppliersLocalizedCapacity } from './features/suppliers-rank-localized-capacity';
 export { resolveTelemetryLocalizedCapacity } from './features/telemetry-resolve-localized-capacity';
 export { compareValidationLocalizedCapacity } from './features/validation-compare-localized-capacity';
+export { selectWorkspaceLocalizedCapacity } from './features/workspace-select-localized-capacity';
