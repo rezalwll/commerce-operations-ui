@@ -100,3 +100,4 @@ export { compareValidationLocalizedCapacity } from './features/validation-compar
 export { selectWorkspaceLocalizedCapacity } from './features/workspace-select-localized-capacity';
 export { estimateNotificationsLocalizedCapacity } from './features/notifications-estimate-localized-capacity';
 export { NotificationsEstimateLocalizedCapacityCard } from './components/NotificationsEstimateLocalizedCapacityCard';
+export { partitionPermissionsLocalizedCapacity } from './features/permissions-partition-localized-capacity';
