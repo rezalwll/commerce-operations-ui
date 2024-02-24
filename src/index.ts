@@ -98,3 +98,5 @@ export { rankSuppliersLocalizedCapacity } from './features/suppliers-rank-locali
 export { resolveTelemetryLocalizedCapacity } from './features/telemetry-resolve-localized-capacity';
 export { compareValidationLocalizedCapacity } from './features/validation-compare-localized-capacity';
 export { selectWorkspaceLocalizedCapacity } from './features/workspace-select-localized-capacity';
+export { estimateNotificationsLocalizedCapacity } from './features/notifications-estimate-localized-capacity';
+export { NotificationsEstimateLocalizedCapacityCard } from './components/NotificationsEstimateLocalizedCapacityCard';
