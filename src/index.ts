@@ -102,3 +102,4 @@ export { estimateNotificationsLocalizedCapacity } from './features/notifications
 export { NotificationsEstimateLocalizedCapacityCard } from './components/NotificationsEstimateLocalizedCapacityCard';
 export { partitionPermissionsLocalizedCapacity } from './features/permissions-partition-localized-capacity';
 export { aggregateReturnsLocalizedCapacity } from './features/returns-aggregate-localized-capacity';
+export { formatForecastingLocalizedCapacity } from './features/forecasting-format-localized-capacity';
