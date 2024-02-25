@@ -101,3 +101,4 @@ export { selectWorkspaceLocalizedCapacity } from './features/workspace-select-lo
 export { estimateNotificationsLocalizedCapacity } from './features/notifications-estimate-localized-capacity';
 export { NotificationsEstimateLocalizedCapacityCard } from './components/NotificationsEstimateLocalizedCapacityCard';
 export { partitionPermissionsLocalizedCapacity } from './features/permissions-partition-localized-capacity';
+export { aggregateReturnsLocalizedCapacity } from './features/returns-aggregate-localized-capacity';
