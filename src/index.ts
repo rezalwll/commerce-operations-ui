@@ -104,3 +104,4 @@ export { partitionPermissionsLocalizedCapacity } from './features/permissions-pa
 export { aggregateReturnsLocalizedCapacity } from './features/returns-aggregate-localized-capacity';
 export { formatForecastingLocalizedCapacity } from './features/forecasting-format-localized-capacity';
 export { rankAccessibilityMemoizedCapacity } from './features/accessibility-rank-memoized-capacity';
+export { deriveCheckoutMemoizedCapacity } from './features/checkout-derive-memoized-capacity';
