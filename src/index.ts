@@ -107,3 +107,4 @@ export { rankAccessibilityMemoizedCapacity } from './features/accessibility-rank
 export { deriveCheckoutMemoizedCapacity } from './features/checkout-derive-memoized-capacity';
 export { normalizeCustomersMemoizedCapacity } from './features/customers-normalize-memoized-capacity';
 export { filterFiltersMemoizedCapacity } from './features/filters-filter-memoized-capacity';
+export { aggregateFulfillmentMemoizedCapacity } from './features/fulfillment-aggregate-memoized-capacity';
