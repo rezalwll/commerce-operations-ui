@@ -106,3 +106,4 @@ export { formatForecastingLocalizedCapacity } from './features/forecasting-forma
 export { rankAccessibilityMemoizedCapacity } from './features/accessibility-rank-memoized-capacity';
 export { deriveCheckoutMemoizedCapacity } from './features/checkout-derive-memoized-capacity';
 export { normalizeCustomersMemoizedCapacity } from './features/customers-normalize-memoized-capacity';
+export { filterFiltersMemoizedCapacity } from './features/filters-filter-memoized-capacity';
