@@ -108,3 +108,4 @@ export { deriveCheckoutMemoizedCapacity } from './features/checkout-derive-memoi
 export { normalizeCustomersMemoizedCapacity } from './features/customers-normalize-memoized-capacity';
 export { filterFiltersMemoizedCapacity } from './features/filters-filter-memoized-capacity';
 export { aggregateFulfillmentMemoizedCapacity } from './features/fulfillment-aggregate-memoized-capacity';
+export { groupInventoryMemoizedCapacity } from './features/inventory-group-memoized-capacity';
