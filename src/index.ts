@@ -111,3 +111,5 @@ export { aggregateFulfillmentMemoizedCapacity } from './features/fulfillment-agg
 export { groupInventoryMemoizedCapacity } from './features/inventory-group-memoized-capacity';
 export { classifyNavigationMemoizedCapacity } from './features/navigation-classify-memoized-capacity';
 export { measureOrdersMemoizedCapacity } from './features/orders-measure-memoized-capacity';
+export { schedulePricingMemoizedCapacity } from './features/pricing-schedule-memoized-capacity';
+export { PricingScheduleMemoizedCapacityCard } from './components/PricingScheduleMemoizedCapacityCard';
