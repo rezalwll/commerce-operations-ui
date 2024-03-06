@@ -110,3 +110,4 @@ export { filterFiltersMemoizedCapacity } from './features/filters-filter-memoize
 export { aggregateFulfillmentMemoizedCapacity } from './features/fulfillment-aggregate-memoized-capacity';
 export { groupInventoryMemoizedCapacity } from './features/inventory-group-memoized-capacity';
 export { classifyNavigationMemoizedCapacity } from './features/navigation-classify-memoized-capacity';
+export { measureOrdersMemoizedCapacity } from './features/orders-measure-memoized-capacity';
