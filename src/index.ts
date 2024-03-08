@@ -113,3 +113,4 @@ export { classifyNavigationMemoizedCapacity } from './features/navigation-classi
 export { measureOrdersMemoizedCapacity } from './features/orders-measure-memoized-capacity';
 export { schedulePricingMemoizedCapacity } from './features/pricing-schedule-memoized-capacity';
 export { PricingScheduleMemoizedCapacityCard } from './components/PricingScheduleMemoizedCapacityCard';
+export { deriveProductsMemoizedCapacity } from './features/products-derive-memoized-capacity';
