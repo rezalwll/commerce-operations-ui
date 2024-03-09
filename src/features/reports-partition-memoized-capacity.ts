@@ -1,0 +1,4 @@
+/** partition the memoized capacity from a numeric series. */
+export function partitionReportsMemoizedCapacity(values: readonly number[]): number {
+  return values.length ? Math.max(...values) - Math.min(...values) : 0;
+}

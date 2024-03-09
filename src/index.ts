@@ -114,3 +114,4 @@ export { measureOrdersMemoizedCapacity } from './features/orders-measure-memoize
 export { schedulePricingMemoizedCapacity } from './features/pricing-schedule-memoized-capacity';
 export { PricingScheduleMemoizedCapacityCard } from './components/PricingScheduleMemoizedCapacityCard';
 export { deriveProductsMemoizedCapacity } from './features/products-derive-memoized-capacity';
+export { partitionReportsMemoizedCapacity } from './features/reports-partition-memoized-capacity';
