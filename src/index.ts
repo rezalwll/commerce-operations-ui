@@ -115,3 +115,4 @@ export { schedulePricingMemoizedCapacity } from './features/pricing-schedule-mem
 export { PricingScheduleMemoizedCapacityCard } from './components/PricingScheduleMemoizedCapacityCard';
 export { deriveProductsMemoizedCapacity } from './features/products-derive-memoized-capacity';
 export { partitionReportsMemoizedCapacity } from './features/reports-partition-memoized-capacity';
+export { summarizeRoutingMemoizedCapacity } from './features/routing-summarize-memoized-capacity';
