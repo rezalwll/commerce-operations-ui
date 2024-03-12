@@ -119,3 +119,4 @@ export { summarizeRoutingMemoizedCapacity } from './features/routing-summarize-m
 export { filterSearchMemoizedCapacity } from './features/search-filter-memoized-capacity';
 export { calculateSettingsMemoizedCapacity } from './features/settings-calculate-memoized-capacity';
 export { SettingsCalculateMemoizedCapacityCard } from './components/SettingsCalculateMemoizedCapacityCard';
+export { groupShipmentsMemoizedCapacity } from './features/shipments-group-memoized-capacity';
