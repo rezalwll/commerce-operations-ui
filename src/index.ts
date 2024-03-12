@@ -117,3 +117,5 @@ export { deriveProductsMemoizedCapacity } from './features/products-derive-memoi
 export { partitionReportsMemoizedCapacity } from './features/reports-partition-memoized-capacity';
 export { summarizeRoutingMemoizedCapacity } from './features/routing-summarize-memoized-capacity';
 export { filterSearchMemoizedCapacity } from './features/search-filter-memoized-capacity';
+export { calculateSettingsMemoizedCapacity } from './features/settings-calculate-memoized-capacity';
+export { SettingsCalculateMemoizedCapacityCard } from './components/SettingsCalculateMemoizedCapacityCard';
