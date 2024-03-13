@@ -120,3 +120,4 @@ export { filterSearchMemoizedCapacity } from './features/search-filter-memoized-
 export { calculateSettingsMemoizedCapacity } from './features/settings-calculate-memoized-capacity';
 export { SettingsCalculateMemoizedCapacityCard } from './components/SettingsCalculateMemoizedCapacityCard';
 export { groupShipmentsMemoizedCapacity } from './features/shipments-group-memoized-capacity';
+export { compareSuppliersMemoizedCapacity } from './features/suppliers-compare-memoized-capacity';
