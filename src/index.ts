@@ -121,3 +121,4 @@ export { calculateSettingsMemoizedCapacity } from './features/settings-calculate
 export { SettingsCalculateMemoizedCapacityCard } from './components/SettingsCalculateMemoizedCapacityCard';
 export { groupShipmentsMemoizedCapacity } from './features/shipments-group-memoized-capacity';
 export { compareSuppliersMemoizedCapacity } from './features/suppliers-compare-memoized-capacity';
+export { measureTablesMemoizedCapacity } from './features/tables-measure-memoized-capacity';
