@@ -123,3 +123,5 @@ export { groupShipmentsMemoizedCapacity } from './features/shipments-group-memoi
 export { compareSuppliersMemoizedCapacity } from './features/suppliers-compare-memoized-capacity';
 export { measureTablesMemoizedCapacity } from './features/tables-measure-memoized-capacity';
 export { selectTeamsMemoizedCapacity } from './features/teams-select-memoized-capacity';
+export { estimateTelemetryMemoizedCapacity } from './features/telemetry-estimate-memoized-capacity';
+export { TelemetryEstimateMemoizedCapacityCard } from './components/TelemetryEstimateMemoizedCapacityCard';
