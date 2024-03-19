@@ -127,3 +127,4 @@ export { estimateTelemetryMemoizedCapacity } from './features/telemetry-estimate
 export { TelemetryEstimateMemoizedCapacityCard } from './components/TelemetryEstimateMemoizedCapacityCard';
 export { formatWorkspaceMemoizedCapacity } from './features/workspace-format-memoized-capacity';
 export { rankNotificationsMemoizedCapacity } from './features/notifications-rank-memoized-capacity';
+export { classifyPermissionsMemoizedCapacity } from './features/permissions-classify-memoized-capacity';
