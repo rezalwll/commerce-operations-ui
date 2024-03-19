@@ -125,3 +125,4 @@ export { measureTablesMemoizedCapacity } from './features/tables-measure-memoize
 export { selectTeamsMemoizedCapacity } from './features/teams-select-memoized-capacity';
 export { estimateTelemetryMemoizedCapacity } from './features/telemetry-estimate-memoized-capacity';
 export { TelemetryEstimateMemoizedCapacityCard } from './components/TelemetryEstimateMemoizedCapacityCard';
+export { formatWorkspaceMemoizedCapacity } from './features/workspace-format-memoized-capacity';
