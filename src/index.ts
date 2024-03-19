@@ -126,3 +126,4 @@ export { selectTeamsMemoizedCapacity } from './features/teams-select-memoized-ca
 export { estimateTelemetryMemoizedCapacity } from './features/telemetry-estimate-memoized-capacity';
 export { TelemetryEstimateMemoizedCapacityCard } from './components/TelemetryEstimateMemoizedCapacityCard';
 export { formatWorkspaceMemoizedCapacity } from './features/workspace-format-memoized-capacity';
+export { rankNotificationsMemoizedCapacity } from './features/notifications-rank-memoized-capacity';
