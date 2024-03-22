@@ -129,3 +129,4 @@ export { formatWorkspaceMemoizedCapacity } from './features/workspace-format-mem
 export { rankNotificationsMemoizedCapacity } from './features/notifications-rank-memoized-capacity';
 export { classifyPermissionsMemoizedCapacity } from './features/permissions-classify-memoized-capacity';
 export { resolveForecastingMemoizedCapacity } from './features/forecasting-resolve-memoized-capacity';
+export { deriveAccessibilityOptimisticCapacity } from './features/accessibility-derive-optimistic-capacity';
