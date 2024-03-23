@@ -130,3 +130,4 @@ export { rankNotificationsMemoizedCapacity } from './features/notifications-rank
 export { classifyPermissionsMemoizedCapacity } from './features/permissions-classify-memoized-capacity';
 export { resolveForecastingMemoizedCapacity } from './features/forecasting-resolve-memoized-capacity';
 export { deriveAccessibilityOptimisticCapacity } from './features/accessibility-derive-optimistic-capacity';
+export { selectAnalyticsOptimisticCapacity } from './features/analytics-select-optimistic-capacity';
