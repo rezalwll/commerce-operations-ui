@@ -132,3 +132,5 @@ export { resolveForecastingMemoizedCapacity } from './features/forecasting-resol
 export { deriveAccessibilityOptimisticCapacity } from './features/accessibility-derive-optimistic-capacity';
 export { selectAnalyticsOptimisticCapacity } from './features/analytics-select-optimistic-capacity';
 export { filterCatalogOptimisticCapacity } from './features/catalog-filter-optimistic-capacity';
+export { prioritizeCheckoutOptimisticCapacity } from './features/checkout-prioritize-optimistic-capacity';
+export { CheckoutPrioritizeOptimisticCapacityCard } from './components/CheckoutPrioritizeOptimisticCapacityCard';
