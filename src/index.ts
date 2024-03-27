@@ -135,3 +135,4 @@ export { filterCatalogOptimisticCapacity } from './features/catalog-filter-optim
 export { prioritizeCheckoutOptimisticCapacity } from './features/checkout-prioritize-optimistic-capacity';
 export { CheckoutPrioritizeOptimisticCapacityCard } from './components/CheckoutPrioritizeOptimisticCapacityCard';
 export { aggregateCustomersOptimisticCapacity } from './features/customers-aggregate-optimistic-capacity';
+export { groupDeliveryOptimisticCapacity } from './features/delivery-group-optimistic-capacity';
