@@ -134,3 +134,4 @@ export { selectAnalyticsOptimisticCapacity } from './features/analytics-select-o
 export { filterCatalogOptimisticCapacity } from './features/catalog-filter-optimistic-capacity';
 export { prioritizeCheckoutOptimisticCapacity } from './features/checkout-prioritize-optimistic-capacity';
 export { CheckoutPrioritizeOptimisticCapacityCard } from './components/CheckoutPrioritizeOptimisticCapacityCard';
+export { aggregateCustomersOptimisticCapacity } from './features/customers-aggregate-optimistic-capacity';
