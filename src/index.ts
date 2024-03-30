@@ -138,3 +138,4 @@ export { aggregateCustomersOptimisticCapacity } from './features/customers-aggre
 export { groupDeliveryOptimisticCapacity } from './features/delivery-group-optimistic-capacity';
 export { reduceFiltersOptimisticCapacity } from './features/filters-reduce-optimistic-capacity';
 export { classifyFormsOptimisticCapacity } from './features/forms-classify-optimistic-capacity';
+export { measureFulfillmentOptimisticCapacity } from './features/fulfillment-measure-optimistic-capacity';
