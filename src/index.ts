@@ -139,3 +139,5 @@ export { groupDeliveryOptimisticCapacity } from './features/delivery-group-optim
 export { reduceFiltersOptimisticCapacity } from './features/filters-reduce-optimistic-capacity';
 export { classifyFormsOptimisticCapacity } from './features/forms-classify-optimistic-capacity';
 export { measureFulfillmentOptimisticCapacity } from './features/fulfillment-measure-optimistic-capacity';
+export { scheduleInventoryOptimisticCapacity } from './features/inventory-schedule-optimistic-capacity';
+export { InventoryScheduleOptimisticCapacityCard } from './components/InventoryScheduleOptimisticCapacityCard';
