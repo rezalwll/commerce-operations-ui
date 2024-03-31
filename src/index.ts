@@ -141,3 +141,4 @@ export { classifyFormsOptimisticCapacity } from './features/forms-classify-optim
 export { measureFulfillmentOptimisticCapacity } from './features/fulfillment-measure-optimistic-capacity';
 export { scheduleInventoryOptimisticCapacity } from './features/inventory-schedule-optimistic-capacity';
 export { InventoryScheduleOptimisticCapacityCard } from './components/InventoryScheduleOptimisticCapacityCard';
+export { partitionNavigationOptimisticCapacity } from './features/navigation-partition-optimistic-capacity';
