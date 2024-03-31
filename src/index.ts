@@ -143,3 +143,4 @@ export { scheduleInventoryOptimisticCapacity } from './features/inventory-schedu
 export { InventoryScheduleOptimisticCapacityCard } from './components/InventoryScheduleOptimisticCapacityCard';
 export { partitionNavigationOptimisticCapacity } from './features/navigation-partition-optimistic-capacity';
 export { summarizeOrdersOptimisticCapacity } from './features/orders-summarize-optimistic-capacity';
+export { filterPricingOptimisticCapacity } from './features/pricing-filter-optimistic-capacity';
