@@ -145,3 +145,5 @@ export { partitionNavigationOptimisticCapacity } from './features/navigation-par
 export { summarizeOrdersOptimisticCapacity } from './features/orders-summarize-optimistic-capacity';
 export { filterPricingOptimisticCapacity } from './features/pricing-filter-optimistic-capacity';
 export { rankProductsOptimisticCapacity } from './features/products-rank-optimistic-capacity';
+export { calculateReportsOptimisticCapacity } from './features/reports-calculate-optimistic-capacity';
+export { ReportsCalculateOptimisticCapacityCard } from './components/ReportsCalculateOptimisticCapacityCard';
