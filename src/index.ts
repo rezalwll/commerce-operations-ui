@@ -147,3 +147,4 @@ export { filterPricingOptimisticCapacity } from './features/pricing-filter-optim
 export { rankProductsOptimisticCapacity } from './features/products-rank-optimistic-capacity';
 export { calculateReportsOptimisticCapacity } from './features/reports-calculate-optimistic-capacity';
 export { ReportsCalculateOptimisticCapacityCard } from './components/ReportsCalculateOptimisticCapacityCard';
+export { resolveSearchOptimisticCapacity } from './features/search-resolve-optimistic-capacity';
