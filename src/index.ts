@@ -149,3 +149,4 @@ export { calculateReportsOptimisticCapacity } from './features/reports-calculate
 export { ReportsCalculateOptimisticCapacityCard } from './components/ReportsCalculateOptimisticCapacityCard';
 export { resolveSearchOptimisticCapacity } from './features/search-resolve-optimistic-capacity';
 export { compareSessionsOptimisticCapacity } from './features/sessions-compare-optimistic-capacity';
+export { measureSettingsOptimisticCapacity } from './features/settings-measure-optimistic-capacity';
