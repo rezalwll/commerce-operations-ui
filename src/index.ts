@@ -152,3 +152,4 @@ export { compareSessionsOptimisticCapacity } from './features/sessions-compare-o
 export { measureSettingsOptimisticCapacity } from './features/settings-measure-optimistic-capacity';
 export { estimateStateOptimisticCapacity } from './features/state-estimate-optimistic-capacity';
 export { StateEstimateOptimisticCapacityCard } from './components/StateEstimateOptimisticCapacityCard';
+export { formatTeamsOptimisticCapacity } from './features/teams-format-optimistic-capacity';
