@@ -153,3 +153,4 @@ export { measureSettingsOptimisticCapacity } from './features/settings-measure-o
 export { estimateStateOptimisticCapacity } from './features/state-estimate-optimistic-capacity';
 export { StateEstimateOptimisticCapacityCard } from './components/StateEstimateOptimisticCapacityCard';
 export { formatTeamsOptimisticCapacity } from './features/teams-format-optimistic-capacity';
+export { rankTelemetryOptimisticCapacity } from './features/telemetry-rank-optimistic-capacity';
