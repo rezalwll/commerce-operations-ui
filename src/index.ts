@@ -155,3 +155,4 @@ export { StateEstimateOptimisticCapacityCard } from './components/StateEstimateO
 export { formatTeamsOptimisticCapacity } from './features/teams-format-optimistic-capacity';
 export { rankTelemetryOptimisticCapacity } from './features/telemetry-rank-optimistic-capacity';
 export { classifyValidationOptimisticCapacity } from './features/validation-classify-optimistic-capacity';
+export { resolveWorkspaceOptimisticCapacity } from './features/workspace-resolve-optimistic-capacity';
