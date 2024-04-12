@@ -156,3 +156,4 @@ export { formatTeamsOptimisticCapacity } from './features/teams-format-optimisti
 export { rankTelemetryOptimisticCapacity } from './features/telemetry-rank-optimistic-capacity';
 export { classifyValidationOptimisticCapacity } from './features/validation-classify-optimistic-capacity';
 export { resolveWorkspaceOptimisticCapacity } from './features/workspace-resolve-optimistic-capacity';
+export { normalizePermissionsOptimisticCapacity } from './features/permissions-normalize-optimistic-capacity';
