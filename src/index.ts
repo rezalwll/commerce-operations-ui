@@ -158,3 +158,4 @@ export { classifyValidationOptimisticCapacity } from './features/validation-clas
 export { resolveWorkspaceOptimisticCapacity } from './features/workspace-resolve-optimistic-capacity';
 export { normalizePermissionsOptimisticCapacity } from './features/permissions-normalize-optimistic-capacity';
 export { selectReturnsOptimisticCapacity } from './features/returns-select-optimistic-capacity';
+export { filterForecastingOptimisticCapacity } from './features/forecasting-filter-optimistic-capacity';
