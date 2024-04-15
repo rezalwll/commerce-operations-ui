@@ -159,3 +159,5 @@ export { resolveWorkspaceOptimisticCapacity } from './features/workspace-resolve
 export { normalizePermissionsOptimisticCapacity } from './features/permissions-normalize-optimistic-capacity';
 export { selectReturnsOptimisticCapacity } from './features/returns-select-optimistic-capacity';
 export { filterForecastingOptimisticCapacity } from './features/forecasting-filter-optimistic-capacity';
+export { prioritizeAccessibilityPagedCapacity } from './features/accessibility-prioritize-paged-capacity';
+export { AccessibilityPrioritizePagedCapacityCard } from './components/AccessibilityPrioritizePagedCapacityCard';
