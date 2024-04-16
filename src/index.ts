@@ -161,3 +161,4 @@ export { selectReturnsOptimisticCapacity } from './features/returns-select-optim
 export { filterForecastingOptimisticCapacity } from './features/forecasting-filter-optimistic-capacity';
 export { prioritizeAccessibilityPagedCapacity } from './features/accessibility-prioritize-paged-capacity';
 export { AccessibilityPrioritizePagedCapacityCard } from './components/AccessibilityPrioritizePagedCapacityCard';
+export { groupAnalyticsPagedCapacity } from './features/analytics-group-paged-capacity';
