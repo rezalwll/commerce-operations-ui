@@ -164,3 +164,5 @@ export { AccessibilityPrioritizePagedCapacityCard } from './components/Accessibi
 export { groupAnalyticsPagedCapacity } from './features/analytics-group-paged-capacity';
 export { classifyCheckoutPagedCapacity } from './features/checkout-classify-paged-capacity';
 export { measureCustomersPagedCapacity } from './features/customers-measure-paged-capacity';
+export { scheduleDeliveryPagedCapacity } from './features/delivery-schedule-paged-capacity';
+export { DeliverySchedulePagedCapacityCard } from './components/DeliverySchedulePagedCapacityCard';
