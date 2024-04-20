@@ -166,3 +166,4 @@ export { classifyCheckoutPagedCapacity } from './features/checkout-classify-page
 export { measureCustomersPagedCapacity } from './features/customers-measure-paged-capacity';
 export { scheduleDeliveryPagedCapacity } from './features/delivery-schedule-paged-capacity';
 export { DeliverySchedulePagedCapacityCard } from './components/DeliverySchedulePagedCapacityCard';
+export { partitionFormsPagedCapacity } from './features/forms-partition-paged-capacity';
