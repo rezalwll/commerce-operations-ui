@@ -167,3 +167,4 @@ export { measureCustomersPagedCapacity } from './features/customers-measure-page
 export { scheduleDeliveryPagedCapacity } from './features/delivery-schedule-paged-capacity';
 export { DeliverySchedulePagedCapacityCard } from './components/DeliverySchedulePagedCapacityCard';
 export { partitionFormsPagedCapacity } from './features/forms-partition-paged-capacity';
+export { filterInventoryPagedCapacity } from './features/inventory-filter-paged-capacity';
