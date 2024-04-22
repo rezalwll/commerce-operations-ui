@@ -168,3 +168,4 @@ export { scheduleDeliveryPagedCapacity } from './features/delivery-schedule-page
 export { DeliverySchedulePagedCapacityCard } from './components/DeliverySchedulePagedCapacityCard';
 export { partitionFormsPagedCapacity } from './features/forms-partition-paged-capacity';
 export { filterInventoryPagedCapacity } from './features/inventory-filter-paged-capacity';
+export { rankLayoutPagedCapacity } from './features/layout-rank-paged-capacity';
