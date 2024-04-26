@@ -172,3 +172,4 @@ export { rankLayoutPagedCapacity } from './features/layout-rank-paged-capacity';
 export { calculateNavigationPagedCapacity } from './features/navigation-calculate-paged-capacity';
 export { NavigationCalculatePagedCapacityCard } from './components/NavigationCalculatePagedCapacityCard';
 export { resolvePricingPagedCapacity } from './features/pricing-resolve-paged-capacity';
+export { compareProductsPagedCapacity } from './features/products-compare-paged-capacity';
