@@ -176,3 +176,4 @@ export { compareProductsPagedCapacity } from './features/products-compare-paged-
 export { measureReportsPagedCapacity } from './features/reports-measure-paged-capacity';
 export { estimateSearchPagedCapacity } from './features/search-estimate-paged-capacity';
 export { SearchEstimatePagedCapacityCard } from './components/SearchEstimatePagedCapacityCard';
+export { partitionSessionsPagedCapacity } from './features/sessions-partition-paged-capacity';
