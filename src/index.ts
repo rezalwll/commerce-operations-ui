@@ -174,3 +174,5 @@ export { NavigationCalculatePagedCapacityCard } from './components/NavigationCal
 export { resolvePricingPagedCapacity } from './features/pricing-resolve-paged-capacity';
 export { compareProductsPagedCapacity } from './features/products-compare-paged-capacity';
 export { measureReportsPagedCapacity } from './features/reports-measure-paged-capacity';
+export { estimateSearchPagedCapacity } from './features/search-estimate-paged-capacity';
+export { SearchEstimatePagedCapacityCard } from './components/SearchEstimatePagedCapacityCard';
