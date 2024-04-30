@@ -178,3 +178,4 @@ export { estimateSearchPagedCapacity } from './features/search-estimate-paged-ca
 export { SearchEstimatePagedCapacityCard } from './components/SearchEstimatePagedCapacityCard';
 export { partitionSessionsPagedCapacity } from './features/sessions-partition-paged-capacity';
 export { aggregateSettingsPagedCapacity } from './features/settings-aggregate-paged-capacity';
+export { formatShipmentsPagedCapacity } from './features/shipments-format-paged-capacity';
