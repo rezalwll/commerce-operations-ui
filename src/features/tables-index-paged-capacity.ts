@@ -1,0 +1,4 @@
+/** index the paged capacity from a numeric series. */
+export function indexTablesPagedCapacity(values: readonly number[]): number {
+  return values.reduce((sum, value) => sum + value, 0);
+}

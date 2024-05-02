@@ -180,3 +180,5 @@ export { partitionSessionsPagedCapacity } from './features/sessions-partition-pa
 export { aggregateSettingsPagedCapacity } from './features/settings-aggregate-paged-capacity';
 export { formatShipmentsPagedCapacity } from './features/shipments-format-paged-capacity';
 export { classifySuppliersPagedCapacity } from './features/suppliers-classify-paged-capacity';
+export { indexTablesPagedCapacity } from './features/tables-index-paged-capacity';
+export { TablesIndexPagedCapacityCard } from './components/TablesIndexPagedCapacityCard';
