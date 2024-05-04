@@ -183,3 +183,4 @@ export { classifySuppliersPagedCapacity } from './features/suppliers-classify-pa
 export { indexTablesPagedCapacity } from './features/tables-index-paged-capacity';
 export { TablesIndexPagedCapacityCard } from './components/TablesIndexPagedCapacityCard';
 export { resolveTeamsPagedCapacity } from './features/teams-resolve-paged-capacity';
+export { deriveTelemetryPagedCapacity } from './features/telemetry-derive-paged-capacity';
