@@ -182,3 +182,4 @@ export { formatShipmentsPagedCapacity } from './features/shipments-format-paged-
 export { classifySuppliersPagedCapacity } from './features/suppliers-classify-paged-capacity';
 export { indexTablesPagedCapacity } from './features/tables-index-paged-capacity';
 export { TablesIndexPagedCapacityCard } from './components/TablesIndexPagedCapacityCard';
+export { resolveTeamsPagedCapacity } from './features/teams-resolve-paged-capacity';
