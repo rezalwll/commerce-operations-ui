@@ -185,3 +185,4 @@ export { TablesIndexPagedCapacityCard } from './components/TablesIndexPagedCapac
 export { resolveTeamsPagedCapacity } from './features/teams-resolve-paged-capacity';
 export { deriveTelemetryPagedCapacity } from './features/telemetry-derive-paged-capacity';
 export { normalizeValidationPagedCapacity } from './features/validation-normalize-paged-capacity';
+export { selectWorkflowsPagedCapacity } from './features/workflows-select-paged-capacity';
