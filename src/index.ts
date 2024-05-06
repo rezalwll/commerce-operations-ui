@@ -188,3 +188,4 @@ export { normalizeValidationPagedCapacity } from './features/validation-normaliz
 export { selectWorkflowsPagedCapacity } from './features/workflows-select-paged-capacity';
 export { prioritizeNotificationsPagedCapacity } from './features/notifications-prioritize-paged-capacity';
 export { NotificationsPrioritizePagedCapacityCard } from './components/NotificationsPrioritizePagedCapacityCard';
+export { aggregatePermissionsPagedCapacity } from './features/permissions-aggregate-paged-capacity';
