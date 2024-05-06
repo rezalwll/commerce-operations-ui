@@ -186,3 +186,5 @@ export { resolveTeamsPagedCapacity } from './features/teams-resolve-paged-capaci
 export { deriveTelemetryPagedCapacity } from './features/telemetry-derive-paged-capacity';
 export { normalizeValidationPagedCapacity } from './features/validation-normalize-paged-capacity';
 export { selectWorkflowsPagedCapacity } from './features/workflows-select-paged-capacity';
+export { prioritizeNotificationsPagedCapacity } from './features/notifications-prioritize-paged-capacity';
+export { NotificationsPrioritizePagedCapacityCard } from './components/NotificationsPrioritizePagedCapacityCard';
