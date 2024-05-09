@@ -189,3 +189,4 @@ export { selectWorkflowsPagedCapacity } from './features/workflows-select-paged-
 export { prioritizeNotificationsPagedCapacity } from './features/notifications-prioritize-paged-capacity';
 export { NotificationsPrioritizePagedCapacityCard } from './components/NotificationsPrioritizePagedCapacityCard';
 export { aggregatePermissionsPagedCapacity } from './features/permissions-aggregate-paged-capacity';
+export { classifyAccessibilityPersistentCapacity } from './features/accessibility-classify-persistent-capacity';
