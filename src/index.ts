@@ -190,3 +190,4 @@ export { prioritizeNotificationsPagedCapacity } from './features/notifications-p
 export { NotificationsPrioritizePagedCapacityCard } from './components/NotificationsPrioritizePagedCapacityCard';
 export { aggregatePermissionsPagedCapacity } from './features/permissions-aggregate-paged-capacity';
 export { classifyAccessibilityPersistentCapacity } from './features/accessibility-classify-persistent-capacity';
+export { measureAccountsPersistentCapacity } from './features/accounts-measure-persistent-capacity';
