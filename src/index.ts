@@ -191,3 +191,5 @@ export { NotificationsPrioritizePagedCapacityCard } from './components/Notificat
 export { aggregatePermissionsPagedCapacity } from './features/permissions-aggregate-paged-capacity';
 export { classifyAccessibilityPersistentCapacity } from './features/accessibility-classify-persistent-capacity';
 export { measureAccountsPersistentCapacity } from './features/accounts-measure-persistent-capacity';
+export { scheduleAnalyticsPersistentCapacity } from './features/analytics-schedule-persistent-capacity';
+export { AnalyticsSchedulePersistentCapacityCard } from './components/AnalyticsSchedulePersistentCapacityCard';
