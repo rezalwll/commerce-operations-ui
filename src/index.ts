@@ -194,3 +194,4 @@ export { measureAccountsPersistentCapacity } from './features/accounts-measure-p
 export { scheduleAnalyticsPersistentCapacity } from './features/analytics-schedule-persistent-capacity';
 export { AnalyticsSchedulePersistentCapacityCard } from './components/AnalyticsSchedulePersistentCapacityCard';
 export { deriveCatalogPersistentCapacity } from './features/catalog-derive-persistent-capacity';
+export { partitionCheckoutPersistentCapacity } from './features/checkout-partition-persistent-capacity';
