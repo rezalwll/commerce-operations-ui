@@ -195,3 +195,4 @@ export { scheduleAnalyticsPersistentCapacity } from './features/analytics-schedu
 export { AnalyticsSchedulePersistentCapacityCard } from './components/AnalyticsSchedulePersistentCapacityCard';
 export { deriveCatalogPersistentCapacity } from './features/catalog-derive-persistent-capacity';
 export { partitionCheckoutPersistentCapacity } from './features/checkout-partition-persistent-capacity';
+export { filterDeliveryPersistentCapacity } from './features/delivery-filter-persistent-capacity';
