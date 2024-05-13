@@ -197,3 +197,5 @@ export { deriveCatalogPersistentCapacity } from './features/catalog-derive-persi
 export { partitionCheckoutPersistentCapacity } from './features/checkout-partition-persistent-capacity';
 export { filterDeliveryPersistentCapacity } from './features/delivery-filter-persistent-capacity';
 export { rankFiltersPersistentCapacity } from './features/filters-rank-persistent-capacity';
+export { calculateFormsPersistentCapacity } from './features/forms-calculate-persistent-capacity';
+export { FormsCalculatePersistentCapacityCard } from './components/FormsCalculatePersistentCapacityCard';
