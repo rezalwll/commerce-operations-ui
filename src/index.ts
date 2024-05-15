@@ -199,3 +199,4 @@ export { filterDeliveryPersistentCapacity } from './features/delivery-filter-per
 export { rankFiltersPersistentCapacity } from './features/filters-rank-persistent-capacity';
 export { calculateFormsPersistentCapacity } from './features/forms-calculate-persistent-capacity';
 export { FormsCalculatePersistentCapacityCard } from './components/FormsCalculatePersistentCapacityCard';
+export { resolveInventoryPersistentCapacity } from './features/inventory-resolve-persistent-capacity';
