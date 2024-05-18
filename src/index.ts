@@ -200,3 +200,4 @@ export { rankFiltersPersistentCapacity } from './features/filters-rank-persisten
 export { calculateFormsPersistentCapacity } from './features/forms-calculate-persistent-capacity';
 export { FormsCalculatePersistentCapacityCard } from './components/FormsCalculatePersistentCapacityCard';
 export { resolveInventoryPersistentCapacity } from './features/inventory-resolve-persistent-capacity';
+export { measureNavigationPersistentCapacity } from './features/navigation-measure-persistent-capacity';
