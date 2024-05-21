@@ -203,3 +203,4 @@ export { resolveInventoryPersistentCapacity } from './features/inventory-resolve
 export { measureNavigationPersistentCapacity } from './features/navigation-measure-persistent-capacity';
 export { aggregateReportsPersistentCapacity } from './features/reports-aggregate-persistent-capacity';
 export { formatRoutingPersistentCapacity } from './features/routing-format-persistent-capacity';
+export { rankSearchPersistentCapacity } from './features/search-rank-persistent-capacity';
