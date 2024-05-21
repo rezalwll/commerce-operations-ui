@@ -204,3 +204,4 @@ export { measureNavigationPersistentCapacity } from './features/navigation-measu
 export { aggregateReportsPersistentCapacity } from './features/reports-aggregate-persistent-capacity';
 export { formatRoutingPersistentCapacity } from './features/routing-format-persistent-capacity';
 export { rankSearchPersistentCapacity } from './features/search-rank-persistent-capacity';
+export { classifySessionsPersistentCapacity } from './features/sessions-classify-persistent-capacity';
