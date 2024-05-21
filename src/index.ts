@@ -202,3 +202,4 @@ export { FormsCalculatePersistentCapacityCard } from './components/FormsCalculat
 export { resolveInventoryPersistentCapacity } from './features/inventory-resolve-persistent-capacity';
 export { measureNavigationPersistentCapacity } from './features/navigation-measure-persistent-capacity';
 export { aggregateReportsPersistentCapacity } from './features/reports-aggregate-persistent-capacity';
+export { formatRoutingPersistentCapacity } from './features/routing-format-persistent-capacity';
