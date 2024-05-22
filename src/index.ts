@@ -205,3 +205,5 @@ export { aggregateReportsPersistentCapacity } from './features/reports-aggregate
 export { formatRoutingPersistentCapacity } from './features/routing-format-persistent-capacity';
 export { rankSearchPersistentCapacity } from './features/search-rank-persistent-capacity';
 export { classifySessionsPersistentCapacity } from './features/sessions-classify-persistent-capacity';
+export { indexSettingsPersistentCapacity } from './features/settings-index-persistent-capacity';
+export { SettingsIndexPersistentCapacityCard } from './components/SettingsIndexPersistentCapacityCard';
