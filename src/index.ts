@@ -207,3 +207,4 @@ export { rankSearchPersistentCapacity } from './features/search-rank-persistent-
 export { classifySessionsPersistentCapacity } from './features/sessions-classify-persistent-capacity';
 export { indexSettingsPersistentCapacity } from './features/settings-index-persistent-capacity';
 export { SettingsIndexPersistentCapacityCard } from './components/SettingsIndexPersistentCapacityCard';
+export { normalizeSuppliersPersistentCapacity } from './features/suppliers-normalize-persistent-capacity';
