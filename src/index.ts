@@ -208,3 +208,4 @@ export { classifySessionsPersistentCapacity } from './features/sessions-classify
 export { indexSettingsPersistentCapacity } from './features/settings-index-persistent-capacity';
 export { SettingsIndexPersistentCapacityCard } from './components/SettingsIndexPersistentCapacityCard';
 export { normalizeSuppliersPersistentCapacity } from './features/suppliers-normalize-persistent-capacity';
+export { selectTablesPersistentCapacity } from './features/tables-select-persistent-capacity';
