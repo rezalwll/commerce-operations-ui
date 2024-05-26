@@ -210,3 +210,5 @@ export { SettingsIndexPersistentCapacityCard } from './components/SettingsIndexP
 export { normalizeSuppliersPersistentCapacity } from './features/suppliers-normalize-persistent-capacity';
 export { selectTablesPersistentCapacity } from './features/tables-select-persistent-capacity';
 export { filterTeamsPersistentCapacity } from './features/teams-filter-persistent-capacity';
+export { prioritizeTelemetryPersistentCapacity } from './features/telemetry-prioritize-persistent-capacity';
+export { TelemetryPrioritizePersistentCapacityCard } from './components/TelemetryPrioritizePersistentCapacityCard';
