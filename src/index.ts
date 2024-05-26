@@ -209,3 +209,4 @@ export { indexSettingsPersistentCapacity } from './features/settings-index-persi
 export { SettingsIndexPersistentCapacityCard } from './components/SettingsIndexPersistentCapacityCard';
 export { normalizeSuppliersPersistentCapacity } from './features/suppliers-normalize-persistent-capacity';
 export { selectTablesPersistentCapacity } from './features/tables-select-persistent-capacity';
+export { filterTeamsPersistentCapacity } from './features/teams-filter-persistent-capacity';
