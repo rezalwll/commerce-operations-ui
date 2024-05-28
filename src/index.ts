@@ -212,3 +212,4 @@ export { selectTablesPersistentCapacity } from './features/tables-select-persist
 export { filterTeamsPersistentCapacity } from './features/teams-filter-persistent-capacity';
 export { prioritizeTelemetryPersistentCapacity } from './features/telemetry-prioritize-persistent-capacity';
 export { TelemetryPrioritizePersistentCapacityCard } from './components/TelemetryPrioritizePersistentCapacityCard';
+export { aggregateValidationPersistentCapacity } from './features/validation-aggregate-persistent-capacity';
