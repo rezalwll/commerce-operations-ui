@@ -213,3 +213,4 @@ export { filterTeamsPersistentCapacity } from './features/teams-filter-persisten
 export { prioritizeTelemetryPersistentCapacity } from './features/telemetry-prioritize-persistent-capacity';
 export { TelemetryPrioritizePersistentCapacityCard } from './components/TelemetryPrioritizePersistentCapacityCard';
 export { aggregateValidationPersistentCapacity } from './features/validation-aggregate-persistent-capacity';
+export { groupWorkflowsPersistentCapacity } from './features/workflows-group-persistent-capacity';
