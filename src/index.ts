@@ -214,3 +214,4 @@ export { prioritizeTelemetryPersistentCapacity } from './features/telemetry-prio
 export { TelemetryPrioritizePersistentCapacityCard } from './components/TelemetryPrioritizePersistentCapacityCard';
 export { aggregateValidationPersistentCapacity } from './features/validation-aggregate-persistent-capacity';
 export { groupWorkflowsPersistentCapacity } from './features/workflows-group-persistent-capacity';
+export { reduceWorkspacePersistentCapacity } from './features/workspace-reduce-persistent-capacity';
