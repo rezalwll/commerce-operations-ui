@@ -215,3 +215,5 @@ export { TelemetryPrioritizePersistentCapacityCard } from './components/Telemetr
 export { aggregateValidationPersistentCapacity } from './features/validation-aggregate-persistent-capacity';
 export { groupWorkflowsPersistentCapacity } from './features/workflows-group-persistent-capacity';
 export { reduceWorkspacePersistentCapacity } from './features/workspace-reduce-persistent-capacity';
+export { scheduleReturnsPersistentCapacity } from './features/returns-schedule-persistent-capacity';
+export { ReturnsSchedulePersistentCapacityCard } from './components/ReturnsSchedulePersistentCapacityCard';
