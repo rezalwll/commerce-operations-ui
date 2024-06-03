@@ -217,3 +217,4 @@ export { groupWorkflowsPersistentCapacity } from './features/workflows-group-per
 export { reduceWorkspacePersistentCapacity } from './features/workspace-reduce-persistent-capacity';
 export { scheduleReturnsPersistentCapacity } from './features/returns-schedule-persistent-capacity';
 export { ReturnsSchedulePersistentCapacityCard } from './components/ReturnsSchedulePersistentCapacityCard';
+export { deriveForecastingPersistentCapacity } from './features/forecasting-derive-persistent-capacity';
