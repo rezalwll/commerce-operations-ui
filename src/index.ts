@@ -219,3 +219,4 @@ export { scheduleReturnsPersistentCapacity } from './features/returns-schedule-p
 export { ReturnsSchedulePersistentCapacityCard } from './components/ReturnsSchedulePersistentCapacityCard';
 export { deriveForecastingPersistentCapacity } from './features/forecasting-derive-persistent-capacity';
 export { filterAnalyticsPredictiveCapacity } from './features/analytics-filter-predictive-capacity';
+export { rankCatalogPredictiveCapacity } from './features/catalog-rank-predictive-capacity';
