@@ -218,3 +218,4 @@ export { reduceWorkspacePersistentCapacity } from './features/workspace-reduce-p
 export { scheduleReturnsPersistentCapacity } from './features/returns-schedule-persistent-capacity';
 export { ReturnsSchedulePersistentCapacityCard } from './components/ReturnsSchedulePersistentCapacityCard';
 export { deriveForecastingPersistentCapacity } from './features/forecasting-derive-persistent-capacity';
+export { filterAnalyticsPredictiveCapacity } from './features/analytics-filter-predictive-capacity';
