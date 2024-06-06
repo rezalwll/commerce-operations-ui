@@ -222,3 +222,4 @@ export { filterAnalyticsPredictiveCapacity } from './features/analytics-filter-p
 export { rankCatalogPredictiveCapacity } from './features/catalog-rank-predictive-capacity';
 export { calculateCheckoutPredictiveCapacity } from './features/checkout-calculate-predictive-capacity';
 export { CheckoutCalculatePredictiveCapacityCard } from './components/CheckoutCalculatePredictiveCapacityCard';
+export { groupCustomersPredictiveCapacity } from './features/customers-group-predictive-capacity';
