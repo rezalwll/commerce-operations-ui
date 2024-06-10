@@ -224,3 +224,4 @@ export { calculateCheckoutPredictiveCapacity } from './features/checkout-calcula
 export { CheckoutCalculatePredictiveCapacityCard } from './components/CheckoutCalculatePredictiveCapacityCard';
 export { groupCustomersPredictiveCapacity } from './features/customers-group-predictive-capacity';
 export { resolveDeliveryPredictiveCapacity } from './features/delivery-resolve-predictive-capacity';
+export { selectFulfillmentPredictiveCapacity } from './features/fulfillment-select-predictive-capacity';
