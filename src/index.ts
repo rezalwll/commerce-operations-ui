@@ -227,3 +227,4 @@ export { resolveDeliveryPredictiveCapacity } from './features/delivery-resolve-p
 export { selectFulfillmentPredictiveCapacity } from './features/fulfillment-select-predictive-capacity';
 export { estimateInventoryPredictiveCapacity } from './features/inventory-estimate-predictive-capacity';
 export { InventoryEstimatePredictiveCapacityCard } from './components/InventoryEstimatePredictiveCapacityCard';
+export { aggregateNavigationPredictiveCapacity } from './features/navigation-aggregate-predictive-capacity';
