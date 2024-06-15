@@ -229,3 +229,4 @@ export { estimateInventoryPredictiveCapacity } from './features/inventory-estima
 export { InventoryEstimatePredictiveCapacityCard } from './components/InventoryEstimatePredictiveCapacityCard';
 export { aggregateNavigationPredictiveCapacity } from './features/navigation-aggregate-predictive-capacity';
 export { formatOrdersPredictiveCapacity } from './features/orders-format-predictive-capacity';
+export { classifyProductsPredictiveCapacity } from './features/products-classify-predictive-capacity';
