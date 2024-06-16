@@ -230,3 +230,4 @@ export { InventoryEstimatePredictiveCapacityCard } from './components/InventoryE
 export { aggregateNavigationPredictiveCapacity } from './features/navigation-aggregate-predictive-capacity';
 export { formatOrdersPredictiveCapacity } from './features/orders-format-predictive-capacity';
 export { classifyProductsPredictiveCapacity } from './features/products-classify-predictive-capacity';
+export { resolveRoutingPredictiveCapacity } from './features/routing-resolve-predictive-capacity';
