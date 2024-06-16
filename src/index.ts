@@ -231,3 +231,4 @@ export { aggregateNavigationPredictiveCapacity } from './features/navigation-agg
 export { formatOrdersPredictiveCapacity } from './features/orders-format-predictive-capacity';
 export { classifyProductsPredictiveCapacity } from './features/products-classify-predictive-capacity';
 export { resolveRoutingPredictiveCapacity } from './features/routing-resolve-predictive-capacity';
+export { deriveSearchPredictiveCapacity } from './features/search-derive-predictive-capacity';
