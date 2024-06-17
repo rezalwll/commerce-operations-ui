@@ -232,3 +232,4 @@ export { formatOrdersPredictiveCapacity } from './features/orders-format-predict
 export { classifyProductsPredictiveCapacity } from './features/products-classify-predictive-capacity';
 export { resolveRoutingPredictiveCapacity } from './features/routing-resolve-predictive-capacity';
 export { deriveSearchPredictiveCapacity } from './features/search-derive-predictive-capacity';
+export { selectSettingsPredictiveCapacity } from './features/settings-select-predictive-capacity';
