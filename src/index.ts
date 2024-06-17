@@ -233,3 +233,4 @@ export { classifyProductsPredictiveCapacity } from './features/products-classify
 export { resolveRoutingPredictiveCapacity } from './features/routing-resolve-predictive-capacity';
 export { deriveSearchPredictiveCapacity } from './features/search-derive-predictive-capacity';
 export { selectSettingsPredictiveCapacity } from './features/settings-select-predictive-capacity';
+export { filterShipmentsPredictiveCapacity } from './features/shipments-filter-predictive-capacity';

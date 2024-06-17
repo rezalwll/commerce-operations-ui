@@ -1,0 +1,4 @@
+/** filter the predictive capacity from a numeric series. */
+export function filterShipmentsPredictiveCapacity(values: readonly number[]): number {
+  return values.reduce((sum, value, position) => sum + value * (position + 1), 0);
+}
