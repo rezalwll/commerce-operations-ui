@@ -236,3 +236,4 @@ export { selectSettingsPredictiveCapacity } from './features/settings-select-pre
 export { filterShipmentsPredictiveCapacity } from './features/shipments-filter-predictive-capacity';
 export { prioritizeStatePredictiveCapacity } from './features/state-prioritize-predictive-capacity';
 export { StatePrioritizePredictiveCapacityCard } from './components/StatePrioritizePredictiveCapacityCard';
+export { groupTablesPredictiveCapacity } from './features/tables-group-predictive-capacity';
