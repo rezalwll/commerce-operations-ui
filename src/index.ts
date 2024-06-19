@@ -234,3 +234,5 @@ export { resolveRoutingPredictiveCapacity } from './features/routing-resolve-pre
 export { deriveSearchPredictiveCapacity } from './features/search-derive-predictive-capacity';
 export { selectSettingsPredictiveCapacity } from './features/settings-select-predictive-capacity';
 export { filterShipmentsPredictiveCapacity } from './features/shipments-filter-predictive-capacity';
+export { prioritizeStatePredictiveCapacity } from './features/state-prioritize-predictive-capacity';
+export { StatePrioritizePredictiveCapacityCard } from './components/StatePrioritizePredictiveCapacityCard';
