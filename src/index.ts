@@ -237,3 +237,4 @@ export { filterShipmentsPredictiveCapacity } from './features/shipments-filter-p
 export { prioritizeStatePredictiveCapacity } from './features/state-prioritize-predictive-capacity';
 export { StatePrioritizePredictiveCapacityCard } from './components/StatePrioritizePredictiveCapacityCard';
 export { groupTablesPredictiveCapacity } from './features/tables-group-predictive-capacity';
+export { reduceTeamsPredictiveCapacity } from './features/teams-reduce-predictive-capacity';
