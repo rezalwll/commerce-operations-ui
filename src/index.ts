@@ -238,3 +238,4 @@ export { prioritizeStatePredictiveCapacity } from './features/state-prioritize-p
 export { StatePrioritizePredictiveCapacityCard } from './components/StatePrioritizePredictiveCapacityCard';
 export { groupTablesPredictiveCapacity } from './features/tables-group-predictive-capacity';
 export { reduceTeamsPredictiveCapacity } from './features/teams-reduce-predictive-capacity';
+export { classifyTelemetryPredictiveCapacity } from './features/telemetry-classify-predictive-capacity';
