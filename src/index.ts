@@ -242,3 +242,4 @@ export { classifyTelemetryPredictiveCapacity } from './features/telemetry-classi
 export { measureValidationPredictiveCapacity } from './features/validation-measure-predictive-capacity';
 export { deriveWorkspacePredictiveCapacity } from './features/workspace-derive-predictive-capacity';
 export { partitionNotificationsPredictiveCapacity } from './features/notifications-partition-predictive-capacity';
+export { summarizePermissionsPredictiveCapacity } from './features/permissions-summarize-predictive-capacity';
