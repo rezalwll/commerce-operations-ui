@@ -240,3 +240,4 @@ export { groupTablesPredictiveCapacity } from './features/tables-group-predictiv
 export { reduceTeamsPredictiveCapacity } from './features/teams-reduce-predictive-capacity';
 export { classifyTelemetryPredictiveCapacity } from './features/telemetry-classify-predictive-capacity';
 export { measureValidationPredictiveCapacity } from './features/validation-measure-predictive-capacity';
+export { deriveWorkspacePredictiveCapacity } from './features/workspace-derive-predictive-capacity';
