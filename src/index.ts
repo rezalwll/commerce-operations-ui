@@ -243,3 +243,4 @@ export { measureValidationPredictiveCapacity } from './features/validation-measu
 export { deriveWorkspacePredictiveCapacity } from './features/workspace-derive-predictive-capacity';
 export { partitionNotificationsPredictiveCapacity } from './features/notifications-partition-predictive-capacity';
 export { summarizePermissionsPredictiveCapacity } from './features/permissions-summarize-predictive-capacity';
+export { filterReturnsPredictiveCapacity } from './features/returns-filter-predictive-capacity';
