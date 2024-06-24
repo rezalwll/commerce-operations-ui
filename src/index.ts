@@ -244,3 +244,4 @@ export { deriveWorkspacePredictiveCapacity } from './features/workspace-derive-p
 export { partitionNotificationsPredictiveCapacity } from './features/notifications-partition-predictive-capacity';
 export { summarizePermissionsPredictiveCapacity } from './features/permissions-summarize-predictive-capacity';
 export { filterReturnsPredictiveCapacity } from './features/returns-filter-predictive-capacity';
+export { rankForecastingPredictiveCapacity } from './features/forecasting-rank-predictive-capacity';
