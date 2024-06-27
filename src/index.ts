@@ -245,3 +245,4 @@ export { partitionNotificationsPredictiveCapacity } from './features/notificatio
 export { summarizePermissionsPredictiveCapacity } from './features/permissions-summarize-predictive-capacity';
 export { filterReturnsPredictiveCapacity } from './features/returns-filter-predictive-capacity';
 export { rankForecastingPredictiveCapacity } from './features/forecasting-rank-predictive-capacity';
+export { resolveAnalyticsPrioritizedCapacity } from './features/analytics-resolve-prioritized-capacity';
