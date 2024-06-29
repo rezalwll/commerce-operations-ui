@@ -246,3 +246,4 @@ export { summarizePermissionsPredictiveCapacity } from './features/permissions-s
 export { filterReturnsPredictiveCapacity } from './features/returns-filter-predictive-capacity';
 export { rankForecastingPredictiveCapacity } from './features/forecasting-rank-predictive-capacity';
 export { resolveAnalyticsPrioritizedCapacity } from './features/analytics-resolve-prioritized-capacity';
+export { compareCatalogPrioritizedCapacity } from './features/catalog-compare-prioritized-capacity';
