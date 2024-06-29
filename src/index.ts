@@ -247,3 +247,4 @@ export { filterReturnsPredictiveCapacity } from './features/returns-filter-predi
 export { rankForecastingPredictiveCapacity } from './features/forecasting-rank-predictive-capacity';
 export { resolveAnalyticsPrioritizedCapacity } from './features/analytics-resolve-prioritized-capacity';
 export { compareCatalogPrioritizedCapacity } from './features/catalog-compare-prioritized-capacity';
+export { measureCheckoutPrioritizedCapacity } from './features/checkout-measure-prioritized-capacity';
