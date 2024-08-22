@@ -250,3 +250,4 @@ export { compareCatalogPrioritizedCapacity } from './features/catalog-compare-pr
 export { measureCheckoutPrioritizedCapacity } from './features/checkout-measure-prioritized-capacity';
 export { selectCustomersPrioritizedCapacity } from './features/customers-select-prioritized-capacity';
 export { formatFulfillmentPrioritizedCapacity } from './features/fulfillment-format-prioritized-capacity';
+export { rankInventoryPrioritizedCapacity } from './features/inventory-rank-prioritized-capacity';
