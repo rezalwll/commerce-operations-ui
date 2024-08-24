@@ -255,3 +255,4 @@ export { classifyLayoutPrioritizedCapacity } from './features/layout-classify-pr
 export { indexNavigationPrioritizedCapacity } from './features/navigation-index-prioritized-capacity';
 export { NavigationIndexPrioritizedCapacityCard } from './components/NavigationIndexPrioritizedCapacityCard';
 export { resolveOrdersPrioritizedCapacity } from './features/orders-resolve-prioritized-capacity';
+export { derivePricingPrioritizedCapacity } from './features/pricing-derive-prioritized-capacity';
