@@ -252,3 +252,5 @@ export { selectCustomersPrioritizedCapacity } from './features/customers-select-
 export { formatFulfillmentPrioritizedCapacity } from './features/fulfillment-format-prioritized-capacity';
 export { rankInventoryPrioritizedCapacity } from './features/inventory-rank-prioritized-capacity';
 export { classifyLayoutPrioritizedCapacity } from './features/layout-classify-prioritized-capacity';
+export { indexNavigationPrioritizedCapacity } from './features/navigation-index-prioritized-capacity';
+export { NavigationIndexPrioritizedCapacityCard } from './components/NavigationIndexPrioritizedCapacityCard';
