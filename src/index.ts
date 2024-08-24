@@ -254,3 +254,4 @@ export { rankInventoryPrioritizedCapacity } from './features/inventory-rank-prio
 export { classifyLayoutPrioritizedCapacity } from './features/layout-classify-prioritized-capacity';
 export { indexNavigationPrioritizedCapacity } from './features/navigation-index-prioritized-capacity';
 export { NavigationIndexPrioritizedCapacityCard } from './components/NavigationIndexPrioritizedCapacityCard';
+export { resolveOrdersPrioritizedCapacity } from './features/orders-resolve-prioritized-capacity';
