@@ -256,3 +256,4 @@ export { indexNavigationPrioritizedCapacity } from './features/navigation-index-
 export { NavigationIndexPrioritizedCapacityCard } from './components/NavigationIndexPrioritizedCapacityCard';
 export { resolveOrdersPrioritizedCapacity } from './features/orders-resolve-prioritized-capacity';
 export { derivePricingPrioritizedCapacity } from './features/pricing-derive-prioritized-capacity';
+export { normalizeProductsPrioritizedCapacity } from './features/products-normalize-prioritized-capacity';
