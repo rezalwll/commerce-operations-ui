@@ -260,3 +260,4 @@ export { normalizeProductsPrioritizedCapacity } from './features/products-normal
 export { selectReportsPrioritizedCapacity } from './features/reports-select-prioritized-capacity';
 export { aggregateSessionsPrioritizedCapacity } from './features/sessions-aggregate-prioritized-capacity';
 export { groupSettingsPrioritizedCapacity } from './features/settings-group-prioritized-capacity';
+export { reduceShipmentsPrioritizedCapacity } from './features/shipments-reduce-prioritized-capacity';
