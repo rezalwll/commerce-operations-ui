@@ -261,3 +261,4 @@ export { selectReportsPrioritizedCapacity } from './features/reports-select-prio
 export { aggregateSessionsPrioritizedCapacity } from './features/sessions-aggregate-prioritized-capacity';
 export { groupSettingsPrioritizedCapacity } from './features/settings-group-prioritized-capacity';
 export { reduceShipmentsPrioritizedCapacity } from './features/shipments-reduce-prioritized-capacity';
+export { deriveTeamsPrioritizedCapacity } from './features/teams-derive-prioritized-capacity';
