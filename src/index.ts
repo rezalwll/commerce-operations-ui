@@ -262,3 +262,4 @@ export { aggregateSessionsPrioritizedCapacity } from './features/sessions-aggreg
 export { groupSettingsPrioritizedCapacity } from './features/settings-group-prioritized-capacity';
 export { reduceShipmentsPrioritizedCapacity } from './features/shipments-reduce-prioritized-capacity';
 export { deriveTeamsPrioritizedCapacity } from './features/teams-derive-prioritized-capacity';
+export { partitionTelemetryPrioritizedCapacity } from './features/telemetry-partition-prioritized-capacity';
