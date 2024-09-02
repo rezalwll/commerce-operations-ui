@@ -263,3 +263,4 @@ export { groupSettingsPrioritizedCapacity } from './features/settings-group-prio
 export { reduceShipmentsPrioritizedCapacity } from './features/shipments-reduce-prioritized-capacity';
 export { deriveTeamsPrioritizedCapacity } from './features/teams-derive-prioritized-capacity';
 export { partitionTelemetryPrioritizedCapacity } from './features/telemetry-partition-prioritized-capacity';
+export { summarizeValidationPrioritizedCapacity } from './features/validation-summarize-prioritized-capacity';
