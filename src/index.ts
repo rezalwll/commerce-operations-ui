@@ -264,3 +264,4 @@ export { reduceShipmentsPrioritizedCapacity } from './features/shipments-reduce-
 export { deriveTeamsPrioritizedCapacity } from './features/teams-derive-prioritized-capacity';
 export { partitionTelemetryPrioritizedCapacity } from './features/telemetry-partition-prioritized-capacity';
 export { summarizeValidationPrioritizedCapacity } from './features/validation-summarize-prioritized-capacity';
+export { filterWorkflowsPrioritizedCapacity } from './features/workflows-filter-prioritized-capacity';
