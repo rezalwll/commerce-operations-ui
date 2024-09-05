@@ -265,3 +265,4 @@ export { deriveTeamsPrioritizedCapacity } from './features/teams-derive-prioriti
 export { partitionTelemetryPrioritizedCapacity } from './features/telemetry-partition-prioritized-capacity';
 export { summarizeValidationPrioritizedCapacity } from './features/validation-summarize-prioritized-capacity';
 export { filterWorkflowsPrioritizedCapacity } from './features/workflows-filter-prioritized-capacity';
+export { groupPermissionsPrioritizedCapacity } from './features/permissions-group-prioritized-capacity';
