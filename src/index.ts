@@ -266,3 +266,4 @@ export { partitionTelemetryPrioritizedCapacity } from './features/telemetry-part
 export { summarizeValidationPrioritizedCapacity } from './features/validation-summarize-prioritized-capacity';
 export { filterWorkflowsPrioritizedCapacity } from './features/workflows-filter-prioritized-capacity';
 export { groupPermissionsPrioritizedCapacity } from './features/permissions-group-prioritized-capacity';
+export { selectAccountsResponsiveCapacity } from './features/accounts-select-responsive-capacity';
