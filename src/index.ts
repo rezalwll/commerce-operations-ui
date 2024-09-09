@@ -269,3 +269,4 @@ export { groupPermissionsPrioritizedCapacity } from './features/permissions-grou
 export { selectAccountsResponsiveCapacity } from './features/accounts-select-responsive-capacity';
 export { partitionCatalogResponsiveCapacity } from './features/catalog-partition-responsive-capacity';
 export { aggregateCheckoutResponsiveCapacity } from './features/checkout-aggregate-responsive-capacity';
+export { formatCustomersResponsiveCapacity } from './features/customers-format-responsive-capacity';
