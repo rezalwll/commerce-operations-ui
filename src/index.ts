@@ -267,3 +267,4 @@ export { summarizeValidationPrioritizedCapacity } from './features/validation-su
 export { filterWorkflowsPrioritizedCapacity } from './features/workflows-filter-prioritized-capacity';
 export { groupPermissionsPrioritizedCapacity } from './features/permissions-group-prioritized-capacity';
 export { selectAccountsResponsiveCapacity } from './features/accounts-select-responsive-capacity';
+export { partitionCatalogResponsiveCapacity } from './features/catalog-partition-responsive-capacity';
