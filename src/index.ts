@@ -268,3 +268,4 @@ export { filterWorkflowsPrioritizedCapacity } from './features/workflows-filter-
 export { groupPermissionsPrioritizedCapacity } from './features/permissions-group-prioritized-capacity';
 export { selectAccountsResponsiveCapacity } from './features/accounts-select-responsive-capacity';
 export { partitionCatalogResponsiveCapacity } from './features/catalog-partition-responsive-capacity';
+export { aggregateCheckoutResponsiveCapacity } from './features/checkout-aggregate-responsive-capacity';
