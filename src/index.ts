@@ -272,3 +272,5 @@ export { aggregateCheckoutResponsiveCapacity } from './features/checkout-aggrega
 export { formatCustomersResponsiveCapacity } from './features/customers-format-responsive-capacity';
 export { rankDeliveryResponsiveCapacity } from './features/delivery-rank-responsive-capacity';
 export { classifyFiltersResponsiveCapacity } from './features/filters-classify-responsive-capacity';
+export { indexFormsResponsiveCapacity } from './features/forms-index-responsive-capacity';
+export { FormsIndexResponsiveCapacityCard } from './components/FormsIndexResponsiveCapacityCard';
