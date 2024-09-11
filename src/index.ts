@@ -271,3 +271,4 @@ export { partitionCatalogResponsiveCapacity } from './features/catalog-partition
 export { aggregateCheckoutResponsiveCapacity } from './features/checkout-aggregate-responsive-capacity';
 export { formatCustomersResponsiveCapacity } from './features/customers-format-responsive-capacity';
 export { rankDeliveryResponsiveCapacity } from './features/delivery-rank-responsive-capacity';
+export { classifyFiltersResponsiveCapacity } from './features/filters-classify-responsive-capacity';
