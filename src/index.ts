@@ -275,3 +275,4 @@ export { classifyFiltersResponsiveCapacity } from './features/filters-classify-r
 export { indexFormsResponsiveCapacity } from './features/forms-index-responsive-capacity';
 export { FormsIndexResponsiveCapacityCard } from './components/FormsIndexResponsiveCapacityCard';
 export { deriveInventoryResponsiveCapacity } from './features/inventory-derive-responsive-capacity';
+export { normalizeLayoutResponsiveCapacity } from './features/layout-normalize-responsive-capacity';
