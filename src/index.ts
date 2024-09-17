@@ -277,3 +277,5 @@ export { FormsIndexResponsiveCapacityCard } from './components/FormsIndexRespons
 export { deriveInventoryResponsiveCapacity } from './features/inventory-derive-responsive-capacity';
 export { normalizeLayoutResponsiveCapacity } from './features/layout-normalize-responsive-capacity';
 export { selectNavigationResponsiveCapacity } from './features/navigation-select-responsive-capacity';
+export { prioritizePricingResponsiveCapacity } from './features/pricing-prioritize-responsive-capacity';
+export { PricingPrioritizeResponsiveCapacityCard } from './components/PricingPrioritizeResponsiveCapacityCard';
