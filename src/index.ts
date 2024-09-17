@@ -279,3 +279,4 @@ export { normalizeLayoutResponsiveCapacity } from './features/layout-normalize-r
 export { selectNavigationResponsiveCapacity } from './features/navigation-select-responsive-capacity';
 export { prioritizePricingResponsiveCapacity } from './features/pricing-prioritize-responsive-capacity';
 export { PricingPrioritizeResponsiveCapacityCard } from './components/PricingPrioritizeResponsiveCapacityCard';
+export { aggregateProductsResponsiveCapacity } from './features/products-aggregate-responsive-capacity';
