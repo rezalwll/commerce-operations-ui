@@ -280,3 +280,4 @@ export { selectNavigationResponsiveCapacity } from './features/navigation-select
 export { prioritizePricingResponsiveCapacity } from './features/pricing-prioritize-responsive-capacity';
 export { PricingPrioritizeResponsiveCapacityCard } from './components/PricingPrioritizeResponsiveCapacityCard';
 export { aggregateProductsResponsiveCapacity } from './features/products-aggregate-responsive-capacity';
+export { groupReportsResponsiveCapacity } from './features/reports-group-responsive-capacity';
