@@ -281,3 +281,4 @@ export { prioritizePricingResponsiveCapacity } from './features/pricing-prioriti
 export { PricingPrioritizeResponsiveCapacityCard } from './components/PricingPrioritizeResponsiveCapacityCard';
 export { aggregateProductsResponsiveCapacity } from './features/products-aggregate-responsive-capacity';
 export { groupReportsResponsiveCapacity } from './features/reports-group-responsive-capacity';
+export { reduceRoutingResponsiveCapacity } from './features/routing-reduce-responsive-capacity';
