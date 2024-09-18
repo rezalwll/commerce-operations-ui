@@ -283,3 +283,4 @@ export { aggregateProductsResponsiveCapacity } from './features/products-aggrega
 export { groupReportsResponsiveCapacity } from './features/reports-group-responsive-capacity';
 export { reduceRoutingResponsiveCapacity } from './features/routing-reduce-responsive-capacity';
 export { classifySearchResponsiveCapacity } from './features/search-classify-responsive-capacity';
+export { measureSessionsResponsiveCapacity } from './features/sessions-measure-responsive-capacity';
