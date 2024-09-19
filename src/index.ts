@@ -284,3 +284,5 @@ export { groupReportsResponsiveCapacity } from './features/reports-group-respons
 export { reduceRoutingResponsiveCapacity } from './features/routing-reduce-responsive-capacity';
 export { classifySearchResponsiveCapacity } from './features/search-classify-responsive-capacity';
 export { measureSessionsResponsiveCapacity } from './features/sessions-measure-responsive-capacity';
+export { scheduleSettingsResponsiveCapacity } from './features/settings-schedule-responsive-capacity';
+export { SettingsScheduleResponsiveCapacityCard } from './components/SettingsScheduleResponsiveCapacityCard';
