@@ -286,3 +286,4 @@ export { classifySearchResponsiveCapacity } from './features/search-classify-res
 export { measureSessionsResponsiveCapacity } from './features/sessions-measure-responsive-capacity';
 export { scheduleSettingsResponsiveCapacity } from './features/settings-schedule-responsive-capacity';
 export { SettingsScheduleResponsiveCapacityCard } from './components/SettingsScheduleResponsiveCapacityCard';
+export { deriveShipmentsResponsiveCapacity } from './features/shipments-derive-responsive-capacity';
