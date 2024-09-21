@@ -288,3 +288,4 @@ export { scheduleSettingsResponsiveCapacity } from './features/settings-schedule
 export { SettingsScheduleResponsiveCapacityCard } from './components/SettingsScheduleResponsiveCapacityCard';
 export { deriveShipmentsResponsiveCapacity } from './features/shipments-derive-responsive-capacity';
 export { partitionStateResponsiveCapacity } from './features/state-partition-responsive-capacity';
+export { summarizeSuppliersResponsiveCapacity } from './features/suppliers-summarize-responsive-capacity';
