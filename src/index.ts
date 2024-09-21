@@ -287,3 +287,4 @@ export { measureSessionsResponsiveCapacity } from './features/sessions-measure-r
 export { scheduleSettingsResponsiveCapacity } from './features/settings-schedule-responsive-capacity';
 export { SettingsScheduleResponsiveCapacityCard } from './components/SettingsScheduleResponsiveCapacityCard';
 export { deriveShipmentsResponsiveCapacity } from './features/shipments-derive-responsive-capacity';
+export { partitionStateResponsiveCapacity } from './features/state-partition-responsive-capacity';
