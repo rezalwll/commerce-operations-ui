@@ -289,3 +289,4 @@ export { SettingsScheduleResponsiveCapacityCard } from './components/SettingsSch
 export { deriveShipmentsResponsiveCapacity } from './features/shipments-derive-responsive-capacity';
 export { partitionStateResponsiveCapacity } from './features/state-partition-responsive-capacity';
 export { summarizeSuppliersResponsiveCapacity } from './features/suppliers-summarize-responsive-capacity';
+export { rankTeamsResponsiveCapacity } from './features/teams-rank-responsive-capacity';
