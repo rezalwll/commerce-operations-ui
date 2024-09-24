@@ -293,3 +293,4 @@ export { rankTeamsResponsiveCapacity } from './features/teams-rank-responsive-ca
 export { calculateTelemetryResponsiveCapacity } from './features/telemetry-calculate-responsive-capacity';
 export { TelemetryCalculateResponsiveCapacityCard } from './components/TelemetryCalculateResponsiveCapacityCard';
 export { groupValidationResponsiveCapacity } from './features/validation-group-responsive-capacity';
+export { resolveWorkflowsResponsiveCapacity } from './features/workflows-resolve-responsive-capacity';
