@@ -292,3 +292,4 @@ export { summarizeSuppliersResponsiveCapacity } from './features/suppliers-summa
 export { rankTeamsResponsiveCapacity } from './features/teams-rank-responsive-capacity';
 export { calculateTelemetryResponsiveCapacity } from './features/telemetry-calculate-responsive-capacity';
 export { TelemetryCalculateResponsiveCapacityCard } from './components/TelemetryCalculateResponsiveCapacityCard';
+export { groupValidationResponsiveCapacity } from './features/validation-group-responsive-capacity';
