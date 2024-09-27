@@ -295,3 +295,4 @@ export { TelemetryCalculateResponsiveCapacityCard } from './components/Telemetry
 export { groupValidationResponsiveCapacity } from './features/validation-group-responsive-capacity';
 export { resolveWorkflowsResponsiveCapacity } from './features/workflows-resolve-responsive-capacity';
 export { compareWorkspaceResponsiveCapacity } from './features/workspace-compare-responsive-capacity';
+export { selectPermissionsResponsiveCapacity } from './features/permissions-select-responsive-capacity';
