@@ -296,3 +296,5 @@ export { groupValidationResponsiveCapacity } from './features/validation-group-r
 export { resolveWorkflowsResponsiveCapacity } from './features/workflows-resolve-responsive-capacity';
 export { compareWorkspaceResponsiveCapacity } from './features/workspace-compare-responsive-capacity';
 export { selectPermissionsResponsiveCapacity } from './features/permissions-select-responsive-capacity';
+export { estimateReturnsResponsiveCapacity } from './features/returns-estimate-responsive-capacity';
+export { ReturnsEstimateResponsiveCapacityCard } from './components/ReturnsEstimateResponsiveCapacityCard';
