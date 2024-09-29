@@ -298,3 +298,4 @@ export { compareWorkspaceResponsiveCapacity } from './features/workspace-compare
 export { selectPermissionsResponsiveCapacity } from './features/permissions-select-responsive-capacity';
 export { estimateReturnsResponsiveCapacity } from './features/returns-estimate-responsive-capacity';
 export { ReturnsEstimateResponsiveCapacityCard } from './components/ReturnsEstimateResponsiveCapacityCard';
+export { aggregateAccessibilityRetryableCapacity } from './features/accessibility-aggregate-retryable-capacity';
