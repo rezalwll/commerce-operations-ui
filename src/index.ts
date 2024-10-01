@@ -300,3 +300,4 @@ export { estimateReturnsResponsiveCapacity } from './features/returns-estimate-r
 export { ReturnsEstimateResponsiveCapacityCard } from './components/ReturnsEstimateResponsiveCapacityCard';
 export { aggregateAccessibilityRetryableCapacity } from './features/accessibility-aggregate-retryable-capacity';
 export { rankAnalyticsRetryableCapacity } from './features/analytics-rank-retryable-capacity';
+export { classifyCatalogRetryableCapacity } from './features/catalog-classify-retryable-capacity';
