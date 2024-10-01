@@ -301,3 +301,5 @@ export { ReturnsEstimateResponsiveCapacityCard } from './components/ReturnsEstim
 export { aggregateAccessibilityRetryableCapacity } from './features/accessibility-aggregate-retryable-capacity';
 export { rankAnalyticsRetryableCapacity } from './features/analytics-rank-retryable-capacity';
 export { classifyCatalogRetryableCapacity } from './features/catalog-classify-retryable-capacity';
+export { indexCheckoutRetryableCapacity } from './features/checkout-index-retryable-capacity';
+export { CheckoutIndexRetryableCapacityCard } from './components/CheckoutIndexRetryableCapacityCard';
