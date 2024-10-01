@@ -299,3 +299,4 @@ export { selectPermissionsResponsiveCapacity } from './features/permissions-sele
 export { estimateReturnsResponsiveCapacity } from './features/returns-estimate-responsive-capacity';
 export { ReturnsEstimateResponsiveCapacityCard } from './components/ReturnsEstimateResponsiveCapacityCard';
 export { aggregateAccessibilityRetryableCapacity } from './features/accessibility-aggregate-retryable-capacity';
+export { rankAnalyticsRetryableCapacity } from './features/analytics-rank-retryable-capacity';
