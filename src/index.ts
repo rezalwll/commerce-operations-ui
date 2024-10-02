@@ -303,3 +303,4 @@ export { rankAnalyticsRetryableCapacity } from './features/analytics-rank-retrya
 export { classifyCatalogRetryableCapacity } from './features/catalog-classify-retryable-capacity';
 export { indexCheckoutRetryableCapacity } from './features/checkout-index-retryable-capacity';
 export { CheckoutIndexRetryableCapacityCard } from './components/CheckoutIndexRetryableCapacityCard';
+export { normalizeFiltersRetryableCapacity } from './features/filters-normalize-retryable-capacity';
