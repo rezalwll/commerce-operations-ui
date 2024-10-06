@@ -304,3 +304,4 @@ export { classifyCatalogRetryableCapacity } from './features/catalog-classify-re
 export { indexCheckoutRetryableCapacity } from './features/checkout-index-retryable-capacity';
 export { CheckoutIndexRetryableCapacityCard } from './components/CheckoutIndexRetryableCapacityCard';
 export { normalizeFiltersRetryableCapacity } from './features/filters-normalize-retryable-capacity';
+export { filterFulfillmentRetryableCapacity } from './features/fulfillment-filter-retryable-capacity';
