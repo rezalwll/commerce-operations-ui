@@ -305,3 +305,5 @@ export { indexCheckoutRetryableCapacity } from './features/checkout-index-retrya
 export { CheckoutIndexRetryableCapacityCard } from './components/CheckoutIndexRetryableCapacityCard';
 export { normalizeFiltersRetryableCapacity } from './features/filters-normalize-retryable-capacity';
 export { filterFulfillmentRetryableCapacity } from './features/fulfillment-filter-retryable-capacity';
+export { prioritizeInventoryRetryableCapacity } from './features/inventory-prioritize-retryable-capacity';
+export { InventoryPrioritizeRetryableCapacityCard } from './components/InventoryPrioritizeRetryableCapacityCard';
