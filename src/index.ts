@@ -307,3 +307,4 @@ export { normalizeFiltersRetryableCapacity } from './features/filters-normalize-
 export { filterFulfillmentRetryableCapacity } from './features/fulfillment-filter-retryable-capacity';
 export { prioritizeInventoryRetryableCapacity } from './features/inventory-prioritize-retryable-capacity';
 export { InventoryPrioritizeRetryableCapacityCard } from './components/InventoryPrioritizeRetryableCapacityCard';
+export { reduceOrdersRetryableCapacity } from './features/orders-reduce-retryable-capacity';
