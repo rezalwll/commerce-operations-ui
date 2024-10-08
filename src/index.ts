@@ -308,3 +308,4 @@ export { filterFulfillmentRetryableCapacity } from './features/fulfillment-filte
 export { prioritizeInventoryRetryableCapacity } from './features/inventory-prioritize-retryable-capacity';
 export { InventoryPrioritizeRetryableCapacityCard } from './components/InventoryPrioritizeRetryableCapacityCard';
 export { reduceOrdersRetryableCapacity } from './features/orders-reduce-retryable-capacity';
+export { classifyPricingRetryableCapacity } from './features/pricing-classify-retryable-capacity';
