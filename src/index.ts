@@ -309,3 +309,5 @@ export { prioritizeInventoryRetryableCapacity } from './features/inventory-prior
 export { InventoryPrioritizeRetryableCapacityCard } from './components/InventoryPrioritizeRetryableCapacityCard';
 export { reduceOrdersRetryableCapacity } from './features/orders-reduce-retryable-capacity';
 export { classifyPricingRetryableCapacity } from './features/pricing-classify-retryable-capacity';
+export { scheduleReportsRetryableCapacity } from './features/reports-schedule-retryable-capacity';
+export { ReportsScheduleRetryableCapacityCard } from './components/ReportsScheduleRetryableCapacityCard';
