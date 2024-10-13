@@ -312,3 +312,4 @@ export { classifyPricingRetryableCapacity } from './features/pricing-classify-re
 export { scheduleReportsRetryableCapacity } from './features/reports-schedule-retryable-capacity';
 export { ReportsScheduleRetryableCapacityCard } from './components/ReportsScheduleRetryableCapacityCard';
 export { summarizeSessionsRetryableCapacity } from './features/sessions-summarize-retryable-capacity';
+export { filterSettingsRetryableCapacity } from './features/settings-filter-retryable-capacity';
