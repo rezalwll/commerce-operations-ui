@@ -311,3 +311,4 @@ export { reduceOrdersRetryableCapacity } from './features/orders-reduce-retryabl
 export { classifyPricingRetryableCapacity } from './features/pricing-classify-retryable-capacity';
 export { scheduleReportsRetryableCapacity } from './features/reports-schedule-retryable-capacity';
 export { ReportsScheduleRetryableCapacityCard } from './components/ReportsScheduleRetryableCapacityCard';
+export { summarizeSessionsRetryableCapacity } from './features/sessions-summarize-retryable-capacity';
