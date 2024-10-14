@@ -313,3 +313,4 @@ export { scheduleReportsRetryableCapacity } from './features/reports-schedule-re
 export { ReportsScheduleRetryableCapacityCard } from './components/ReportsScheduleRetryableCapacityCard';
 export { summarizeSessionsRetryableCapacity } from './features/sessions-summarize-retryable-capacity';
 export { filterSettingsRetryableCapacity } from './features/settings-filter-retryable-capacity';
+export { rankShipmentsRetryableCapacity } from './features/shipments-rank-retryable-capacity';
