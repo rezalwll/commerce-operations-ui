@@ -316,3 +316,4 @@ export { filterSettingsRetryableCapacity } from './features/settings-filter-retr
 export { rankShipmentsRetryableCapacity } from './features/shipments-rank-retryable-capacity';
 export { calculateStateRetryableCapacity } from './features/state-calculate-retryable-capacity';
 export { StateCalculateRetryableCapacityCard } from './components/StateCalculateRetryableCapacityCard';
+export { resolveTablesRetryableCapacity } from './features/tables-resolve-retryable-capacity';
