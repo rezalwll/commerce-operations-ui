@@ -317,3 +317,4 @@ export { rankShipmentsRetryableCapacity } from './features/shipments-rank-retrya
 export { calculateStateRetryableCapacity } from './features/state-calculate-retryable-capacity';
 export { StateCalculateRetryableCapacityCard } from './components/StateCalculateRetryableCapacityCard';
 export { resolveTablesRetryableCapacity } from './features/tables-resolve-retryable-capacity';
+export { measureTelemetryRetryableCapacity } from './features/telemetry-measure-retryable-capacity';
