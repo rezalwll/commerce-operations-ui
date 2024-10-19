@@ -318,3 +318,4 @@ export { calculateStateRetryableCapacity } from './features/state-calculate-retr
 export { StateCalculateRetryableCapacityCard } from './components/StateCalculateRetryableCapacityCard';
 export { resolveTablesRetryableCapacity } from './features/tables-resolve-retryable-capacity';
 export { measureTelemetryRetryableCapacity } from './features/telemetry-measure-retryable-capacity';
+export { selectValidationRetryableCapacity } from './features/validation-select-retryable-capacity';
