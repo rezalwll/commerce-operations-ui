@@ -319,3 +319,4 @@ export { StateCalculateRetryableCapacityCard } from './components/StateCalculate
 export { resolveTablesRetryableCapacity } from './features/tables-resolve-retryable-capacity';
 export { measureTelemetryRetryableCapacity } from './features/telemetry-measure-retryable-capacity';
 export { selectValidationRetryableCapacity } from './features/validation-select-retryable-capacity';
+export { partitionWorkspaceRetryableCapacity } from './features/workspace-partition-retryable-capacity';
