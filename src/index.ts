@@ -321,3 +321,4 @@ export { measureTelemetryRetryableCapacity } from './features/telemetry-measure-
 export { selectValidationRetryableCapacity } from './features/validation-select-retryable-capacity';
 export { partitionWorkspaceRetryableCapacity } from './features/workspace-partition-retryable-capacity';
 export { aggregateNotificationsRetryableCapacity } from './features/notifications-aggregate-retryable-capacity';
+export { formatPermissionsRetryableCapacity } from './features/permissions-format-retryable-capacity';
