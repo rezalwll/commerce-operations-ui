@@ -322,3 +322,4 @@ export { selectValidationRetryableCapacity } from './features/validation-select-
 export { partitionWorkspaceRetryableCapacity } from './features/workspace-partition-retryable-capacity';
 export { aggregateNotificationsRetryableCapacity } from './features/notifications-aggregate-retryable-capacity';
 export { formatPermissionsRetryableCapacity } from './features/permissions-format-retryable-capacity';
+export { classifyForecastingRetryableCapacity } from './features/forecasting-classify-retryable-capacity';
