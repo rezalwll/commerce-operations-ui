@@ -323,3 +323,5 @@ export { partitionWorkspaceRetryableCapacity } from './features/workspace-partit
 export { aggregateNotificationsRetryableCapacity } from './features/notifications-aggregate-retryable-capacity';
 export { formatPermissionsRetryableCapacity } from './features/permissions-format-retryable-capacity';
 export { classifyForecastingRetryableCapacity } from './features/forecasting-classify-retryable-capacity';
+export { indexAccessibilityScopedCapacity } from './features/accessibility-index-scoped-capacity';
+export { AccessibilityIndexScopedCapacityCard } from './components/AccessibilityIndexScopedCapacityCard';
