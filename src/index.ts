@@ -325,3 +325,4 @@ export { formatPermissionsRetryableCapacity } from './features/permissions-forma
 export { classifyForecastingRetryableCapacity } from './features/forecasting-classify-retryable-capacity';
 export { indexAccessibilityScopedCapacity } from './features/accessibility-index-scoped-capacity';
 export { AccessibilityIndexScopedCapacityCard } from './components/AccessibilityIndexScopedCapacityCard';
+export { deriveAnalyticsScopedCapacity } from './features/analytics-derive-scoped-capacity';
