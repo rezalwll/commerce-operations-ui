@@ -327,3 +327,4 @@ export { indexAccessibilityScopedCapacity } from './features/accessibility-index
 export { AccessibilityIndexScopedCapacityCard } from './components/AccessibilityIndexScopedCapacityCard';
 export { deriveAnalyticsScopedCapacity } from './features/analytics-derive-scoped-capacity';
 export { normalizeCatalogScopedCapacity } from './features/catalog-normalize-scoped-capacity';
+export { selectCheckoutScopedCapacity } from './features/checkout-select-scoped-capacity';
