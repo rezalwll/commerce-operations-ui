@@ -329,3 +329,5 @@ export { deriveAnalyticsScopedCapacity } from './features/analytics-derive-scope
 export { normalizeCatalogScopedCapacity } from './features/catalog-normalize-scoped-capacity';
 export { selectCheckoutScopedCapacity } from './features/checkout-select-scoped-capacity';
 export { filterCustomersScopedCapacity } from './features/customers-filter-scoped-capacity';
+export { prioritizeDeliveryScopedCapacity } from './features/delivery-prioritize-scoped-capacity';
+export { DeliveryPrioritizeScopedCapacityCard } from './components/DeliveryPrioritizeScopedCapacityCard';
