@@ -332,3 +332,4 @@ export { filterCustomersScopedCapacity } from './features/customers-filter-scope
 export { prioritizeDeliveryScopedCapacity } from './features/delivery-prioritize-scoped-capacity';
 export { DeliveryPrioritizeScopedCapacityCard } from './components/DeliveryPrioritizeScopedCapacityCard';
 export { groupFormsScopedCapacity } from './features/forms-group-scoped-capacity';
+export { classifyInventoryScopedCapacity } from './features/inventory-classify-scoped-capacity';
