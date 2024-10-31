@@ -334,3 +334,5 @@ export { DeliveryPrioritizeScopedCapacityCard } from './components/DeliveryPrior
 export { groupFormsScopedCapacity } from './features/forms-group-scoped-capacity';
 export { classifyInventoryScopedCapacity } from './features/inventory-classify-scoped-capacity';
 export { measureLayoutScopedCapacity } from './features/layout-measure-scoped-capacity';
+export { scheduleNavigationScopedCapacity } from './features/navigation-schedule-scoped-capacity';
+export { NavigationScheduleScopedCapacityCard } from './components/NavigationScheduleScopedCapacityCard';
