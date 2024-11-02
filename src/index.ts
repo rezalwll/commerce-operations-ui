@@ -337,3 +337,4 @@ export { measureLayoutScopedCapacity } from './features/layout-measure-scoped-ca
 export { scheduleNavigationScopedCapacity } from './features/navigation-schedule-scoped-capacity';
 export { NavigationScheduleScopedCapacityCard } from './components/NavigationScheduleScopedCapacityCard';
 export { deriveOrdersScopedCapacity } from './features/orders-derive-scoped-capacity';
+export { partitionPricingScopedCapacity } from './features/pricing-partition-scoped-capacity';
