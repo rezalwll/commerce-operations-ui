@@ -336,3 +336,4 @@ export { classifyInventoryScopedCapacity } from './features/inventory-classify-s
 export { measureLayoutScopedCapacity } from './features/layout-measure-scoped-capacity';
 export { scheduleNavigationScopedCapacity } from './features/navigation-schedule-scoped-capacity';
 export { NavigationScheduleScopedCapacityCard } from './components/NavigationScheduleScopedCapacityCard';
+export { deriveOrdersScopedCapacity } from './features/orders-derive-scoped-capacity';
