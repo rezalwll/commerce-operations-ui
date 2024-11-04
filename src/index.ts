@@ -338,3 +338,4 @@ export { scheduleNavigationScopedCapacity } from './features/navigation-schedule
 export { NavigationScheduleScopedCapacityCard } from './components/NavigationScheduleScopedCapacityCard';
 export { deriveOrdersScopedCapacity } from './features/orders-derive-scoped-capacity';
 export { partitionPricingScopedCapacity } from './features/pricing-partition-scoped-capacity';
+export { summarizeProductsScopedCapacity } from './features/products-summarize-scoped-capacity';
