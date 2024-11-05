@@ -340,3 +340,4 @@ export { deriveOrdersScopedCapacity } from './features/orders-derive-scoped-capa
 export { partitionPricingScopedCapacity } from './features/pricing-partition-scoped-capacity';
 export { summarizeProductsScopedCapacity } from './features/products-summarize-scoped-capacity';
 export { filterReportsScopedCapacity } from './features/reports-filter-scoped-capacity';
+export { rankRoutingScopedCapacity } from './features/routing-rank-scoped-capacity';
