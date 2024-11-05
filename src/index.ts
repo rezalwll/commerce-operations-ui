@@ -341,3 +341,5 @@ export { partitionPricingScopedCapacity } from './features/pricing-partition-sco
 export { summarizeProductsScopedCapacity } from './features/products-summarize-scoped-capacity';
 export { filterReportsScopedCapacity } from './features/reports-filter-scoped-capacity';
 export { rankRoutingScopedCapacity } from './features/routing-rank-scoped-capacity';
+export { calculateSearchScopedCapacity } from './features/search-calculate-scoped-capacity';
+export { SearchCalculateScopedCapacityCard } from './components/SearchCalculateScopedCapacityCard';
