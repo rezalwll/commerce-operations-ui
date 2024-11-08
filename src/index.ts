@@ -344,3 +344,4 @@ export { rankRoutingScopedCapacity } from './features/routing-rank-scoped-capaci
 export { calculateSearchScopedCapacity } from './features/search-calculate-scoped-capacity';
 export { SearchCalculateScopedCapacityCard } from './components/SearchCalculateScopedCapacityCard';
 export { compareShipmentsScopedCapacity } from './features/shipments-compare-scoped-capacity';
+export { measureStateScopedCapacity } from './features/state-measure-scoped-capacity';
