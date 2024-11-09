@@ -345,3 +345,4 @@ export { calculateSearchScopedCapacity } from './features/search-calculate-scope
 export { SearchCalculateScopedCapacityCard } from './components/SearchCalculateScopedCapacityCard';
 export { compareShipmentsScopedCapacity } from './features/shipments-compare-scoped-capacity';
 export { measureStateScopedCapacity } from './features/state-measure-scoped-capacity';
+export { selectSuppliersScopedCapacity } from './features/suppliers-select-scoped-capacity';
