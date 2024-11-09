@@ -346,3 +346,5 @@ export { SearchCalculateScopedCapacityCard } from './components/SearchCalculateS
 export { compareShipmentsScopedCapacity } from './features/shipments-compare-scoped-capacity';
 export { measureStateScopedCapacity } from './features/state-measure-scoped-capacity';
 export { selectSuppliersScopedCapacity } from './features/suppliers-select-scoped-capacity';
+export { estimateTablesScopedCapacity } from './features/tables-estimate-scoped-capacity';
+export { TablesEstimateScopedCapacityCard } from './components/TablesEstimateScopedCapacityCard';
