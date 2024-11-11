@@ -348,3 +348,4 @@ export { measureStateScopedCapacity } from './features/state-measure-scoped-capa
 export { selectSuppliersScopedCapacity } from './features/suppliers-select-scoped-capacity';
 export { estimateTablesScopedCapacity } from './features/tables-estimate-scoped-capacity';
 export { TablesEstimateScopedCapacityCard } from './components/TablesEstimateScopedCapacityCard';
+export { aggregateTelemetryScopedCapacity } from './features/telemetry-aggregate-scoped-capacity';
