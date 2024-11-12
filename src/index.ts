@@ -349,3 +349,4 @@ export { selectSuppliersScopedCapacity } from './features/suppliers-select-scope
 export { estimateTablesScopedCapacity } from './features/tables-estimate-scoped-capacity';
 export { TablesEstimateScopedCapacityCard } from './components/TablesEstimateScopedCapacityCard';
 export { aggregateTelemetryScopedCapacity } from './features/telemetry-aggregate-scoped-capacity';
+export { rankWorkflowsScopedCapacity } from './features/workflows-rank-scoped-capacity';
