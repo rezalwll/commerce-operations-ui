@@ -351,3 +351,5 @@ export { TablesEstimateScopedCapacityCard } from './components/TablesEstimateSco
 export { aggregateTelemetryScopedCapacity } from './features/telemetry-aggregate-scoped-capacity';
 export { rankWorkflowsScopedCapacity } from './features/workflows-rank-scoped-capacity';
 export { classifyWorkspaceScopedCapacity } from './features/workspace-classify-scoped-capacity';
+export { indexNotificationsScopedCapacity } from './features/notifications-index-scoped-capacity';
+export { NotificationsIndexScopedCapacityCard } from './components/NotificationsIndexScopedCapacityCard';
