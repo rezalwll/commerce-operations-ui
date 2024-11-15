@@ -353,3 +353,4 @@ export { rankWorkflowsScopedCapacity } from './features/workflows-rank-scoped-ca
 export { classifyWorkspaceScopedCapacity } from './features/workspace-classify-scoped-capacity';
 export { indexNotificationsScopedCapacity } from './features/notifications-index-scoped-capacity';
 export { NotificationsIndexScopedCapacityCard } from './components/NotificationsIndexScopedCapacityCard';
+export { deriveReturnsScopedCapacity } from './features/returns-derive-scoped-capacity';
