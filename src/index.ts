@@ -354,3 +354,4 @@ export { classifyWorkspaceScopedCapacity } from './features/workspace-classify-s
 export { indexNotificationsScopedCapacity } from './features/notifications-index-scoped-capacity';
 export { NotificationsIndexScopedCapacityCard } from './components/NotificationsIndexScopedCapacityCard';
 export { deriveReturnsScopedCapacity } from './features/returns-derive-scoped-capacity';
+export { selectAccessibilitySemanticCapacity } from './features/accessibility-select-semantic-capacity';
