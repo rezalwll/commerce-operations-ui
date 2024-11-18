@@ -358,3 +358,4 @@ export { selectAccessibilitySemanticCapacity } from './features/accessibility-se
 export { filterAccountsSemanticCapacity } from './features/accounts-filter-semantic-capacity';
 export { prioritizeAnalyticsSemanticCapacity } from './features/analytics-prioritize-semantic-capacity';
 export { AnalyticsPrioritizeSemanticCapacityCard } from './components/AnalyticsPrioritizeSemanticCapacityCard';
+export { aggregateCatalogSemanticCapacity } from './features/catalog-aggregate-semantic-capacity';
