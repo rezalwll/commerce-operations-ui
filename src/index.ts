@@ -356,3 +356,5 @@ export { NotificationsIndexScopedCapacityCard } from './components/Notifications
 export { deriveReturnsScopedCapacity } from './features/returns-derive-scoped-capacity';
 export { selectAccessibilitySemanticCapacity } from './features/accessibility-select-semantic-capacity';
 export { filterAccountsSemanticCapacity } from './features/accounts-filter-semantic-capacity';
+export { prioritizeAnalyticsSemanticCapacity } from './features/analytics-prioritize-semantic-capacity';
+export { AnalyticsPrioritizeSemanticCapacityCard } from './components/AnalyticsPrioritizeSemanticCapacityCard';
