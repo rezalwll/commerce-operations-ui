@@ -355,3 +355,4 @@ export { indexNotificationsScopedCapacity } from './features/notifications-index
 export { NotificationsIndexScopedCapacityCard } from './components/NotificationsIndexScopedCapacityCard';
 export { deriveReturnsScopedCapacity } from './features/returns-derive-scoped-capacity';
 export { selectAccessibilitySemanticCapacity } from './features/accessibility-select-semantic-capacity';
+export { filterAccountsSemanticCapacity } from './features/accounts-filter-semantic-capacity';
