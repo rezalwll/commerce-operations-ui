@@ -359,3 +359,4 @@ export { filterAccountsSemanticCapacity } from './features/accounts-filter-seman
 export { prioritizeAnalyticsSemanticCapacity } from './features/analytics-prioritize-semantic-capacity';
 export { AnalyticsPrioritizeSemanticCapacityCard } from './components/AnalyticsPrioritizeSemanticCapacityCard';
 export { aggregateCatalogSemanticCapacity } from './features/catalog-aggregate-semantic-capacity';
+export { groupCheckoutSemanticCapacity } from './features/checkout-group-semantic-capacity';
