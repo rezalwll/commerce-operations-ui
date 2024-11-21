@@ -360,3 +360,4 @@ export { prioritizeAnalyticsSemanticCapacity } from './features/analytics-priori
 export { AnalyticsPrioritizeSemanticCapacityCard } from './components/AnalyticsPrioritizeSemanticCapacityCard';
 export { aggregateCatalogSemanticCapacity } from './features/catalog-aggregate-semantic-capacity';
 export { groupCheckoutSemanticCapacity } from './features/checkout-group-semantic-capacity';
+export { classifyDeliverySemanticCapacity } from './features/delivery-classify-semantic-capacity';
