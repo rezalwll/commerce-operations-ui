@@ -363,3 +363,4 @@ export { groupCheckoutSemanticCapacity } from './features/checkout-group-semanti
 export { classifyDeliverySemanticCapacity } from './features/delivery-classify-semantic-capacity';
 export { scheduleFormsSemanticCapacity } from './features/forms-schedule-semantic-capacity';
 export { FormsScheduleSemanticCapacityCard } from './components/FormsScheduleSemanticCapacityCard';
+export { deriveFulfillmentSemanticCapacity } from './features/fulfillment-derive-semantic-capacity';
