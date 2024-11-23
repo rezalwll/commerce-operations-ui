@@ -361,3 +361,5 @@ export { AnalyticsPrioritizeSemanticCapacityCard } from './components/AnalyticsP
 export { aggregateCatalogSemanticCapacity } from './features/catalog-aggregate-semantic-capacity';
 export { groupCheckoutSemanticCapacity } from './features/checkout-group-semantic-capacity';
 export { classifyDeliverySemanticCapacity } from './features/delivery-classify-semantic-capacity';
+export { scheduleFormsSemanticCapacity } from './features/forms-schedule-semantic-capacity';
+export { FormsScheduleSemanticCapacityCard } from './components/FormsScheduleSemanticCapacityCard';
