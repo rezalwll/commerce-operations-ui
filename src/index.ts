@@ -364,3 +364,4 @@ export { classifyDeliverySemanticCapacity } from './features/delivery-classify-s
 export { scheduleFormsSemanticCapacity } from './features/forms-schedule-semantic-capacity';
 export { FormsScheduleSemanticCapacityCard } from './components/FormsScheduleSemanticCapacityCard';
 export { deriveFulfillmentSemanticCapacity } from './features/fulfillment-derive-semantic-capacity';
+export { partitionInventorySemanticCapacity } from './features/inventory-partition-semantic-capacity';
