@@ -368,3 +368,4 @@ export { partitionInventorySemanticCapacity } from './features/inventory-partiti
 export { rankOrdersSemanticCapacity } from './features/orders-rank-semantic-capacity';
 export { calculatePricingSemanticCapacity } from './features/pricing-calculate-semantic-capacity';
 export { PricingCalculateSemanticCapacityCard } from './components/PricingCalculateSemanticCapacityCard';
+export { groupProductsSemanticCapacity } from './features/products-group-semantic-capacity';
