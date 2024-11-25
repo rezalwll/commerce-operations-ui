@@ -365,3 +365,4 @@ export { scheduleFormsSemanticCapacity } from './features/forms-schedule-semanti
 export { FormsScheduleSemanticCapacityCard } from './components/FormsScheduleSemanticCapacityCard';
 export { deriveFulfillmentSemanticCapacity } from './features/fulfillment-derive-semantic-capacity';
 export { partitionInventorySemanticCapacity } from './features/inventory-partition-semantic-capacity';
+export { rankOrdersSemanticCapacity } from './features/orders-rank-semantic-capacity';
