@@ -366,3 +366,5 @@ export { FormsScheduleSemanticCapacityCard } from './components/FormsScheduleSem
 export { deriveFulfillmentSemanticCapacity } from './features/fulfillment-derive-semantic-capacity';
 export { partitionInventorySemanticCapacity } from './features/inventory-partition-semantic-capacity';
 export { rankOrdersSemanticCapacity } from './features/orders-rank-semantic-capacity';
+export { calculatePricingSemanticCapacity } from './features/pricing-calculate-semantic-capacity';
+export { PricingCalculateSemanticCapacityCard } from './components/PricingCalculateSemanticCapacityCard';
