@@ -370,3 +370,4 @@ export { calculatePricingSemanticCapacity } from './features/pricing-calculate-s
 export { PricingCalculateSemanticCapacityCard } from './components/PricingCalculateSemanticCapacityCard';
 export { groupProductsSemanticCapacity } from './features/products-group-semantic-capacity';
 export { resolveReportsSemanticCapacity } from './features/reports-resolve-semantic-capacity';
+export { compareRoutingSemanticCapacity } from './features/routing-compare-semantic-capacity';
