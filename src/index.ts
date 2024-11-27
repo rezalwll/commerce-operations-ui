@@ -369,3 +369,4 @@ export { rankOrdersSemanticCapacity } from './features/orders-rank-semantic-capa
 export { calculatePricingSemanticCapacity } from './features/pricing-calculate-semantic-capacity';
 export { PricingCalculateSemanticCapacityCard } from './components/PricingCalculateSemanticCapacityCard';
 export { groupProductsSemanticCapacity } from './features/products-group-semantic-capacity';
+export { resolveReportsSemanticCapacity } from './features/reports-resolve-semantic-capacity';
