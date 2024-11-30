@@ -372,3 +372,5 @@ export { groupProductsSemanticCapacity } from './features/products-group-semanti
 export { resolveReportsSemanticCapacity } from './features/reports-resolve-semantic-capacity';
 export { compareRoutingSemanticCapacity } from './features/routing-compare-semantic-capacity';
 export { measureSearchSemanticCapacity } from './features/search-measure-semantic-capacity';
+export { estimateSettingsSemanticCapacity } from './features/settings-estimate-semantic-capacity';
+export { SettingsEstimateSemanticCapacityCard } from './components/SettingsEstimateSemanticCapacityCard';
