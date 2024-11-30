@@ -374,3 +374,4 @@ export { compareRoutingSemanticCapacity } from './features/routing-compare-seman
 export { measureSearchSemanticCapacity } from './features/search-measure-semantic-capacity';
 export { estimateSettingsSemanticCapacity } from './features/settings-estimate-semantic-capacity';
 export { SettingsEstimateSemanticCapacityCard } from './components/SettingsEstimateSemanticCapacityCard';
+export { partitionShipmentsSemanticCapacity } from './features/shipments-partition-semantic-capacity';
