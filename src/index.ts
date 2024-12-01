@@ -375,3 +375,4 @@ export { measureSearchSemanticCapacity } from './features/search-measure-semanti
 export { estimateSettingsSemanticCapacity } from './features/settings-estimate-semantic-capacity';
 export { SettingsEstimateSemanticCapacityCard } from './components/SettingsEstimateSemanticCapacityCard';
 export { partitionShipmentsSemanticCapacity } from './features/shipments-partition-semantic-capacity';
+export { aggregateStateSemanticCapacity } from './features/state-aggregate-semantic-capacity';
