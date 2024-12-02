@@ -376,3 +376,4 @@ export { estimateSettingsSemanticCapacity } from './features/settings-estimate-s
 export { SettingsEstimateSemanticCapacityCard } from './components/SettingsEstimateSemanticCapacityCard';
 export { partitionShipmentsSemanticCapacity } from './features/shipments-partition-semantic-capacity';
 export { aggregateStateSemanticCapacity } from './features/state-aggregate-semantic-capacity';
+export { rankTablesSemanticCapacity } from './features/tables-rank-semantic-capacity';
