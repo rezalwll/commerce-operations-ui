@@ -378,3 +378,4 @@ export { partitionShipmentsSemanticCapacity } from './features/shipments-partiti
 export { aggregateStateSemanticCapacity } from './features/state-aggregate-semantic-capacity';
 export { rankTablesSemanticCapacity } from './features/tables-rank-semantic-capacity';
 export { resolveValidationSemanticCapacity } from './features/validation-resolve-semantic-capacity';
+export { normalizeWorkspaceSemanticCapacity } from './features/workspace-normalize-semantic-capacity';
