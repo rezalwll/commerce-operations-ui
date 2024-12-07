@@ -381,3 +381,5 @@ export { resolveValidationSemanticCapacity } from './features/validation-resolve
 export { normalizeWorkspaceSemanticCapacity } from './features/workspace-normalize-semantic-capacity';
 export { selectNotificationsSemanticCapacity } from './features/notifications-select-semantic-capacity';
 export { filterPermissionsSemanticCapacity } from './features/permissions-filter-semantic-capacity';
+export { prioritizeReturnsSemanticCapacity } from './features/returns-prioritize-semantic-capacity';
+export { ReturnsPrioritizeSemanticCapacityCard } from './components/ReturnsPrioritizeSemanticCapacityCard';
