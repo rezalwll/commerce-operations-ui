@@ -380,3 +380,4 @@ export { rankTablesSemanticCapacity } from './features/tables-rank-semantic-capa
 export { resolveValidationSemanticCapacity } from './features/validation-resolve-semantic-capacity';
 export { normalizeWorkspaceSemanticCapacity } from './features/workspace-normalize-semantic-capacity';
 export { selectNotificationsSemanticCapacity } from './features/notifications-select-semantic-capacity';
+export { filterPermissionsSemanticCapacity } from './features/permissions-filter-semantic-capacity';
