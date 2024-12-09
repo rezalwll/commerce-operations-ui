@@ -385,3 +385,4 @@ export { prioritizeReturnsSemanticCapacity } from './features/returns-prioritize
 export { ReturnsPrioritizeSemanticCapacityCard } from './components/ReturnsPrioritizeSemanticCapacityCard';
 export { aggregateForecastingSemanticCapacity } from './features/forecasting-aggregate-semantic-capacity';
 export { groupAccessibilityStableCapacity } from './features/accessibility-group-stable-capacity';
+export { reduceAccountsStableCapacity } from './features/accounts-reduce-stable-capacity';
