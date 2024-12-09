@@ -384,3 +384,4 @@ export { filterPermissionsSemanticCapacity } from './features/permissions-filter
 export { prioritizeReturnsSemanticCapacity } from './features/returns-prioritize-semantic-capacity';
 export { ReturnsPrioritizeSemanticCapacityCard } from './components/ReturnsPrioritizeSemanticCapacityCard';
 export { aggregateForecastingSemanticCapacity } from './features/forecasting-aggregate-semantic-capacity';
+export { groupAccessibilityStableCapacity } from './features/accessibility-group-stable-capacity';
