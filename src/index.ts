@@ -383,3 +383,4 @@ export { selectNotificationsSemanticCapacity } from './features/notifications-se
 export { filterPermissionsSemanticCapacity } from './features/permissions-filter-semantic-capacity';
 export { prioritizeReturnsSemanticCapacity } from './features/returns-prioritize-semantic-capacity';
 export { ReturnsPrioritizeSemanticCapacityCard } from './components/ReturnsPrioritizeSemanticCapacityCard';
+export { aggregateForecastingSemanticCapacity } from './features/forecasting-aggregate-semantic-capacity';
