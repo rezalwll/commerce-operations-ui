@@ -386,3 +386,5 @@ export { ReturnsPrioritizeSemanticCapacityCard } from './components/ReturnsPrior
 export { aggregateForecastingSemanticCapacity } from './features/forecasting-aggregate-semantic-capacity';
 export { groupAccessibilityStableCapacity } from './features/accessibility-group-stable-capacity';
 export { reduceAccountsStableCapacity } from './features/accounts-reduce-stable-capacity';
+export { scheduleCheckoutStableCapacity } from './features/checkout-schedule-stable-capacity';
+export { CheckoutScheduleStableCapacityCard } from './components/CheckoutScheduleStableCapacityCard';
