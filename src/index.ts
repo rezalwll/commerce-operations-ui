@@ -388,3 +388,4 @@ export { groupAccessibilityStableCapacity } from './features/accessibility-group
 export { reduceAccountsStableCapacity } from './features/accounts-reduce-stable-capacity';
 export { scheduleCheckoutStableCapacity } from './features/checkout-schedule-stable-capacity';
 export { CheckoutScheduleStableCapacityCard } from './components/CheckoutScheduleStableCapacityCard';
+export { partitionDeliveryStableCapacity } from './features/delivery-partition-stable-capacity';
