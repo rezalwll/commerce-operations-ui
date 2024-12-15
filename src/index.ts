@@ -389,3 +389,4 @@ export { reduceAccountsStableCapacity } from './features/accounts-reduce-stable-
 export { scheduleCheckoutStableCapacity } from './features/checkout-schedule-stable-capacity';
 export { CheckoutScheduleStableCapacityCard } from './components/CheckoutScheduleStableCapacityCard';
 export { partitionDeliveryStableCapacity } from './features/delivery-partition-stable-capacity';
+export { summarizeFiltersStableCapacity } from './features/filters-summarize-stable-capacity';
