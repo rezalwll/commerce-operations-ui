@@ -390,3 +390,4 @@ export { scheduleCheckoutStableCapacity } from './features/checkout-schedule-sta
 export { CheckoutScheduleStableCapacityCard } from './components/CheckoutScheduleStableCapacityCard';
 export { partitionDeliveryStableCapacity } from './features/delivery-partition-stable-capacity';
 export { summarizeFiltersStableCapacity } from './features/filters-summarize-stable-capacity';
+export { filterFormsStableCapacity } from './features/forms-filter-stable-capacity';
