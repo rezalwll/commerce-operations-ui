@@ -391,3 +391,4 @@ export { CheckoutScheduleStableCapacityCard } from './components/CheckoutSchedul
 export { partitionDeliveryStableCapacity } from './features/delivery-partition-stable-capacity';
 export { summarizeFiltersStableCapacity } from './features/filters-summarize-stable-capacity';
 export { filterFormsStableCapacity } from './features/forms-filter-stable-capacity';
+export { groupLayoutStableCapacity } from './features/layout-group-stable-capacity';
