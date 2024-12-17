@@ -394,3 +394,4 @@ export { filterFormsStableCapacity } from './features/forms-filter-stable-capaci
 export { groupLayoutStableCapacity } from './features/layout-group-stable-capacity';
 export { compareOrdersStableCapacity } from './features/orders-compare-stable-capacity';
 export { measurePricingStableCapacity } from './features/pricing-measure-stable-capacity';
+export { selectProductsStableCapacity } from './features/products-select-stable-capacity';
