@@ -392,3 +392,4 @@ export { partitionDeliveryStableCapacity } from './features/delivery-partition-s
 export { summarizeFiltersStableCapacity } from './features/filters-summarize-stable-capacity';
 export { filterFormsStableCapacity } from './features/forms-filter-stable-capacity';
 export { groupLayoutStableCapacity } from './features/layout-group-stable-capacity';
+export { compareOrdersStableCapacity } from './features/orders-compare-stable-capacity';
