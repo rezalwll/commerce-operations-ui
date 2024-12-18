@@ -395,3 +395,5 @@ export { groupLayoutStableCapacity } from './features/layout-group-stable-capaci
 export { compareOrdersStableCapacity } from './features/orders-compare-stable-capacity';
 export { measurePricingStableCapacity } from './features/pricing-measure-stable-capacity';
 export { selectProductsStableCapacity } from './features/products-select-stable-capacity';
+export { estimateReportsStableCapacity } from './features/reports-estimate-stable-capacity';
+export { ReportsEstimateStableCapacityCard } from './components/ReportsEstimateStableCapacityCard';
