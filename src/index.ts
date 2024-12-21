@@ -398,3 +398,4 @@ export { selectProductsStableCapacity } from './features/products-select-stable-
 export { estimateReportsStableCapacity } from './features/reports-estimate-stable-capacity';
 export { ReportsEstimateStableCapacityCard } from './components/ReportsEstimateStableCapacityCard';
 export { partitionRoutingStableCapacity } from './features/routing-partition-stable-capacity';
+export { formatSessionsStableCapacity } from './features/sessions-format-stable-capacity';
