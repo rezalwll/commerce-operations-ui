@@ -399,3 +399,4 @@ export { estimateReportsStableCapacity } from './features/reports-estimate-stabl
 export { ReportsEstimateStableCapacityCard } from './components/ReportsEstimateStableCapacityCard';
 export { partitionRoutingStableCapacity } from './features/routing-partition-stable-capacity';
 export { formatSessionsStableCapacity } from './features/sessions-format-stable-capacity';
+export { rankSettingsStableCapacity } from './features/settings-rank-stable-capacity';
