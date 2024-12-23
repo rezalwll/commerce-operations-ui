@@ -402,3 +402,4 @@ export { formatSessionsStableCapacity } from './features/sessions-format-stable-
 export { rankSettingsStableCapacity } from './features/settings-rank-stable-capacity';
 export { indexStateStableCapacity } from './features/state-index-stable-capacity';
 export { StateIndexStableCapacityCard } from './components/StateIndexStableCapacityCard';
+export { deriveTablesStableCapacity } from './features/tables-derive-stable-capacity';
