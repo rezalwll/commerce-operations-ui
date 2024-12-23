@@ -400,3 +400,5 @@ export { ReportsEstimateStableCapacityCard } from './components/ReportsEstimateS
 export { partitionRoutingStableCapacity } from './features/routing-partition-stable-capacity';
 export { formatSessionsStableCapacity } from './features/sessions-format-stable-capacity';
 export { rankSettingsStableCapacity } from './features/settings-rank-stable-capacity';
+export { indexStateStableCapacity } from './features/state-index-stable-capacity';
+export { StateIndexStableCapacityCard } from './components/StateIndexStableCapacityCard';
