@@ -404,3 +404,4 @@ export { indexStateStableCapacity } from './features/state-index-stable-capacity
 export { StateIndexStableCapacityCard } from './components/StateIndexStableCapacityCard';
 export { deriveTablesStableCapacity } from './features/tables-derive-stable-capacity';
 export { normalizeTeamsStableCapacity } from './features/teams-normalize-stable-capacity';
+export { selectTelemetryStableCapacity } from './features/telemetry-select-stable-capacity';
