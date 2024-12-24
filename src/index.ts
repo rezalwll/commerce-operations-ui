@@ -403,3 +403,4 @@ export { rankSettingsStableCapacity } from './features/settings-rank-stable-capa
 export { indexStateStableCapacity } from './features/state-index-stable-capacity';
 export { StateIndexStableCapacityCard } from './components/StateIndexStableCapacityCard';
 export { deriveTablesStableCapacity } from './features/tables-derive-stable-capacity';
+export { normalizeTeamsStableCapacity } from './features/teams-normalize-stable-capacity';
