@@ -405,3 +405,5 @@ export { StateIndexStableCapacityCard } from './components/StateIndexStableCapac
 export { deriveTablesStableCapacity } from './features/tables-derive-stable-capacity';
 export { normalizeTeamsStableCapacity } from './features/teams-normalize-stable-capacity';
 export { selectTelemetryStableCapacity } from './features/telemetry-select-stable-capacity';
+export { prioritizeWorkflowsStableCapacity } from './features/workflows-prioritize-stable-capacity';
+export { WorkflowsPrioritizeStableCapacityCard } from './components/WorkflowsPrioritizeStableCapacityCard';
