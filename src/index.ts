@@ -407,3 +407,4 @@ export { normalizeTeamsStableCapacity } from './features/teams-normalize-stable-
 export { selectTelemetryStableCapacity } from './features/telemetry-select-stable-capacity';
 export { prioritizeWorkflowsStableCapacity } from './features/workflows-prioritize-stable-capacity';
 export { WorkflowsPrioritizeStableCapacityCard } from './components/WorkflowsPrioritizeStableCapacityCard';
+export { aggregateWorkspaceStableCapacity } from './features/workspace-aggregate-stable-capacity';
