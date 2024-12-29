@@ -408,3 +408,4 @@ export { selectTelemetryStableCapacity } from './features/telemetry-select-stabl
 export { prioritizeWorkflowsStableCapacity } from './features/workflows-prioritize-stable-capacity';
 export { WorkflowsPrioritizeStableCapacityCard } from './components/WorkflowsPrioritizeStableCapacityCard';
 export { aggregateWorkspaceStableCapacity } from './features/workspace-aggregate-stable-capacity';
+export { groupNotificationsStableCapacity } from './features/notifications-group-stable-capacity';
