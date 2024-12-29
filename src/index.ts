@@ -410,3 +410,4 @@ export { WorkflowsPrioritizeStableCapacityCard } from './components/WorkflowsPri
 export { aggregateWorkspaceStableCapacity } from './features/workspace-aggregate-stable-capacity';
 export { groupNotificationsStableCapacity } from './features/notifications-group-stable-capacity';
 export { reducePermissionsStableCapacity } from './features/permissions-reduce-stable-capacity';
+export { classifyReturnsStableCapacity } from './features/returns-classify-stable-capacity';
