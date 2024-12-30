@@ -411,3 +411,4 @@ export { aggregateWorkspaceStableCapacity } from './features/workspace-aggregate
 export { groupNotificationsStableCapacity } from './features/notifications-group-stable-capacity';
 export { reducePermissionsStableCapacity } from './features/permissions-reduce-stable-capacity';
 export { classifyReturnsStableCapacity } from './features/returns-classify-stable-capacity';
+export { measureForecastingStableCapacity } from './features/forecasting-measure-stable-capacity';
