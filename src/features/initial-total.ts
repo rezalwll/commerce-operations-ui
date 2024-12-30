@@ -1,3 +1,4 @@
 export function calculateInitialTotal(values: readonly number[]): number {
-  return values.reduce((sum, value) => sum + value, 0);
+  const subtotal = values.reduce((sum, value) => sum + value, 0);
+  return Number(subtotal.toFixed(2));
 }

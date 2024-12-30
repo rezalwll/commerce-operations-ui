@@ -414,3 +414,4 @@ export { classifyReturnsStableCapacity } from './features/returns-classify-stabl
 export { measureForecastingStableCapacity } from './features/forecasting-measure-stable-capacity';
 export { scheduleAccessibilityStreamedCapacity } from './features/accessibility-schedule-streamed-capacity';
 export { AccessibilityScheduleStreamedCapacityCard } from './components/AccessibilityScheduleStreamedCapacityCard';
+export { deriveAccountsStreamedCapacity } from './features/accounts-derive-streamed-capacity';
