@@ -412,3 +412,5 @@ export { groupNotificationsStableCapacity } from './features/notifications-group
 export { reducePermissionsStableCapacity } from './features/permissions-reduce-stable-capacity';
 export { classifyReturnsStableCapacity } from './features/returns-classify-stable-capacity';
 export { measureForecastingStableCapacity } from './features/forecasting-measure-stable-capacity';
+export { scheduleAccessibilityStreamedCapacity } from './features/accessibility-schedule-streamed-capacity';
+export { AccessibilityScheduleStreamedCapacityCard } from './components/AccessibilityScheduleStreamedCapacityCard';
